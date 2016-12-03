@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block body %}
+  <ul class="entries">
+  {% for image in images %}
+    <a href="/{{ image['id'] }}">
+    <li><h2>{{ image['id'] }}</h2></li>
+    <li>{{ image['similarity'] }}</li>
+    <li><img src="/{{ image['path'] }}" alt="" width="300"></li>
+    </a>
+  {% endfor %}
+  </ul>
+{% endblock %}
