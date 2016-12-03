@@ -10,8 +10,6 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.metrics.pairwise import linear_kernel
 
 input_dir = './images/'
-output_dir = './output/'
-
 images = tuple(pathlib.Path(input_dir).glob('*.jpg'))
 features = list()
 
@@ -64,8 +62,8 @@ def compute_histgrams(visual_words):
   return histgrams
 
 
-def find_nears(histgrams):
-  print('start sorting images...')
+def compute_similarities(histgrams):
+  print('start computing similarities...')
   sorted_images = []
   for i, path in enumerate(images):
     print('read {0}/{1}({2:.2%}) {3}'.format(i+1, len(images), (i+1)/float(len(images)), path))
@@ -131,7 +129,7 @@ if __name__ == '__main__':
     else:
       histgrams = load_data('histgrams.pickle')
 
-    sorted_images = find_nears(histgrams)
+    sorted_images = compute_similarities(histgrams)
     clusters = compute_clusters(histgrams)
 
     data = {}
