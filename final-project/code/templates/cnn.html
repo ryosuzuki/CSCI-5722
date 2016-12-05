@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+{% block body %}
+
+
+<div class="ui grid" style="margin-left: 350px">
+  <form id="file-upload" action="" method="POST" enctype="multipart/form-data">
+    <label class="ui button" for="file">Upload File</label>
+    <input type="file" name="file" id="file" style="display: none" onchange="uploadFile()">
+  </form>
+
+  <div id="result" class="ui text" style="display: none">
+    <h1>Result</h1>
+    <img alt="" style="width:300px">
+    <h3>Label: <b class="label"></b> </h3>
+    <h3>Probability: <b class="prob"></b></h3>
+  </div>
+
+</div>
+
+
+
+<script>
+
+var uploadFile = function () {
+  console.log('FJEOJ')
+  var form = $('#file-upload')[0]
+  var data = new FormData(form)
+  console.log(data)
+  $.ajax({
+    type: 'POST',
+    url: '/upload',
+    data: data,
+    cache : false,
+    processData: false,
+    contentType: false,
+    success: function(data) {
+      console.log(data);
+      $('img', '#result').attr('src', '/' + data.path);
+      $('.label', '#result').text(data.label);
+      $('.prob', '#result').text(data.prob);
+      $('#result').show();
+    }
+  })
+}
+
+</script>
+
+{% endblock %}

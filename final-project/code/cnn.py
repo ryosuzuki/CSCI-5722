@@ -2,7 +2,8 @@ from keras.models import Sequential
 from keras.layers.core import Flatten, Dense, Dropout
 from keras.layers.convolutional import Convolution2D, MaxPooling2D, ZeroPadding2D
 from keras.optimizers import SGD
-import cv2, numpy as np
+import cv2
+import numpy as np
 
 def vgg_16(weights_path=None):
   model = Sequential()
@@ -64,21 +65,22 @@ def read_image(file):
   return im
 
 def load_model():
-  model = vgg_16('vgg16_weights.h5')
+  model = vgg_16('models/vgg16/weights.h5')
   sgd = SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
   model.compile(optimizer=sgd, loss='categorical_crossentropy')
   return model
 
 def show_result(model, im):
-  with open('synset_words.txt') as f:
+  with open('models/vgg16/synset_words.txt') as f:
     labels = f.readlines()
   out = model.predict(im)
   index = np.argmax(out)
   prob = out[0][index]
-  label = labels[index-1]
+  label = labels[index]
   print label
   print index
   print prob
+  return label, index, prob
 
 if __name__ == "__main__":
   im = read_image('cat.jpg')

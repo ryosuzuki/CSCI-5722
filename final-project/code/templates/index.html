@@ -1,6 +1,7 @@
 {% extends "layout.html" %}
 {% block body %}
 
+
 <div class="ui grid" style="margin-left: 350px">
   <div class="ui items">
   {% for image in images[offset:] %}
@@ -11,7 +12,7 @@
       <div class="content">
         <a class="header">{{ loop.index }}</a>
         <div class="meta">
-          {% if type == 'show' %}
+          {% if type == 'image' %}
             <p>Similarity: <b>{{ image['similarity'] }}</b></p>
           {% elif type == 'category' %}
             <p>Distance: <b>{{ image['distance'] }}</b></p>

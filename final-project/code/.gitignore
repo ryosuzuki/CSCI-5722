@@ -1,0 +1,5 @@
+*.mov
+*.pickle
+*.h5
+*.pyc
+tmp

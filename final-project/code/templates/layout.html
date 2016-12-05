@@ -2,6 +2,8 @@
 <title>Image Classification</title>
 <link rel="stylesheet" type="text/css" href="/static/semantic-min.css">
 <link rel="stylesheet" type="text/css" href="/static/style.css">
+
+<script type="text/javascript" src="/static/jquery-min.js"></script>
 <script type="text/javascript" src="/static/semantic-min.js"></script>
 <body>
 
@@ -17,7 +19,7 @@
       <a class="item"></a>
     </div>
 
-    {% if type == 'show' %}
+    {% if type == 'image' %}
       <div class="item">
         <h1>Query</h1>
         <img src="{{ images[0]['path'] }}" alt="" style="width:100%">

@@ -9,7 +9,6 @@ from keras.layers import Dense, Dropout, Activation, Flatten
 from keras.layers import Convolution2D, MaxPooling2D
 from keras.optimizers import SGD
 from keras.utils import np_utils
-# from keras.utils.visualize_util import plot
 from keras.preprocessing.image import ImageDataGenerator
 
 
@@ -116,7 +115,6 @@ if __name__ == '__main__':
           metrics=['accuracy'])
 
   model.summary()
-  # plot(model, show_shapes=True, to_file=os.path.join(result_dir, 'model.png'))
 
   if not data_augmentation:
     print('Not using data augmentation')

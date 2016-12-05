@@ -1,26 +1,55 @@
 # -*- coding: utf-8 -*-
 
 import os
-import bovw
 from sqlite3 import dbapi2 as sqlite3
-from flask import Flask, render_template, send_from_directory
+from flask import Flask, request, render_template, send_from_directory, url_for, jsonify
+
+import bovw
+import cnn
 
 app = Flask(__name__, static_url_path='')
 bovw_data = bovw.load_data('models/bovw/data.pickle')
+cnn_model = cnn.load_model()
 
 @app.route('/')
 def index():
   return render_template('index.html', images=bovw_data['sorted_images'][0])
 
 @app.route('/<image_id>')
-def show(image_id):
+def show_image(image_id):
   image_id = int(image_id)
-  return render_template('index.html', type='show', offset=1, images=bovw_data['sorted_images'][image_id], cluster_map=bovw_data['cluster_map'])
+  return render_template('index.html', type='image', offset=1, images=bovw_data['sorted_images'][image_id], cluster_map=bovw_data['cluster_map'])
 
 @app.route('/categories/<cluster_id>')
 def show_cluster(cluster_id):
   cluster_id = int(cluster_id)
   return render_template('index.html', type='category', offset=0, images=bovw_data['clusters'][cluster_id], cluster_map=bovw_data['cluster_map'])
+
+@app.route('/cnn')
+def show_cnn():
+  return render_template('cnn.html')
+
+@app.route('/upload', methods=['POST'])
+def upload():
+  file = request.files['file']
+  path = os.path.join("tmp", file.filename)
+  file.save(path)
+  image = cnn.read_image(path)
+  label, index, prob = cnn.show_result(cnn_model, image)
+  result = {
+    'label': label,
+    'prob': float(prob),
+    'path': path
+  }
+  return jsonify(result)
+
+@app.route('/favicon.ico')
+def send_favicon():
+  return send_from_directory('static', 'favicon.ico')
+
+@app.route('/tmp/<path:path>')
+def send_tmp(path):
+  return send_from_directory('tmp', path)
 
 @app.route('/images/<path:path>')
 def send_image(path):
