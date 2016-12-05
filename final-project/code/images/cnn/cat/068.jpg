@@ -1,0 +1,1059 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>The Leading IT Solutions Provider | OneNeck IT Solutions</title>
+        
+        <meta name="description" content="OneNeck provides a comprehensive suite of end-to-end, enterprise-class IT solutions, so you can focus on what matters most--your business." />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="google-site-verification" contents="oMsyheK5-k5YqWF2TZ7wk9pMTKChkp-C_bcNdrNx2ew" />
+        <link rel="SHORTCUT ICON" href="/favicon.ico" />
+        <link rel="canonical" href="http://www.oneneck.com/" />
+        <link href="/DependencyHandler.axd?s=L2NvbW1vbi9zdHlsZS9iYXNlLmNzczs&amp;t=Css&amp;cdv=19" type="text/css" rel="stylesheet"/>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js" type="text/javascript"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min.js"></script>
+        <!--[if lt IE 9]><script src="/common/script/html5shiv.min.js"></script><![endif]-->
+        
+        <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{ (i[r].q=i[r].q||[]).push(arguments)}
+,i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1880338-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<!-- Hotjar Tracking Code for http://www.oneneck.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:201874,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+    </head>
+    <body id="home">        
+        <!--[if IE 8]><div class="ie8 ie"><![endif]-->
+        <!--[if IE 9]><div class="ie9 ie"><![endif]-->
+        <script type="text/javascript">
+        if (document.location.protocol == "https:")
+            document.location.href = document.location.href.replace("https", "http");
+    </script>
+        <div id="master" class="SiteRoot">
+                <header id="header">
+                    <div id="header_inner">
+                        <div id="logo"><a href="/"><img src="/common/img/logo.png" alt="OneNeck IT Solutions" /></a></div>
+                        <div id="header_utility">
+                            <div class="phone"><a href="tel:1-855-ONE-NECK">1-855-ONE-NECK</a></div>
+                            <nav><ul>    <li >
+            <a href="/contact-us"  >Contact Us</a>
+
+        
+    </li>
+    <li class="e931">
+<style>.e931 a:before {content:"\e931";}</style>            <a href="http://livechat.boldchat.com/aid/1552524482844164345/bc.chat?cwdid=100712349757654475&amp;amp;wdid=907732915312863540" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf(&#39;?&#39;)&gt;=0 ? &#39;&amp;amp;&#39; : &#39;?&#39;) + &#39;url=&#39; + escape(document.location.href)), &#39;Chat1762750052833291270&#39;, &#39;toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480&#39;);return false;">Live Chat</a>
+
+        
+    </li>
+</ul></nav>
+                        </div>
+                        <div id="nav_icon_wrapper">
+                            <div id="nav_icon"><span></span></div>
+                            <div class="title">Menu</div>
+                        </div>
+                    </div>
+                </header>
+            
+    <section id="feature" style="background-image:url(/media/1001/pagephoto_home.jpg);">
+        <div id="feature_inner">
+            <div class="content"><h1>Hybrid IT Solutions tailored for your business needs.</h1>
+<p> </p>
+<form>
+        <div class="select jumpmenu">
+            <select onChange="window.location = this.options[this.selectedIndex].value">
+                <option value="">Find Your Custom IT Plan</option>
+                    <option value="/hybrid-solutions/industries/education">Education</option>
+                    <option value="/hybrid-solutions/industries/energy-utilities">Energy &amp; Utilities</option>
+                    <option value="/hybrid-solutions/industries/engineering-construction">Engineering &amp; Construction</option>
+                    <option value="/hybrid-solutions/industries/food-beverage">Food &amp; Beverage</option>
+                    <option value="/hybrid-solutions/industries/healthcare">Healthcare</option>
+                    <option value="/hybrid-solutions/industries/manufacturing-distribution">Manufacturing &amp; Distribution</option>
+                    <option value="/hybrid-solutions/industries/non-profit">Non-profit</option>
+                    <option value="/hybrid-solutions/industries/private-equity">Private Equity</option>
+                    <option value="/hybrid-solutions/industries/professional-services">Professional Services</option>
+                    <option value="/hybrid-solutions/industries/public-sector">Public Sector </option>
+                    <option value="/hybrid-solutions/industries/retail">Retail</option>
+                    <option value="/hybrid-solutions/industries/transportation-logistics">Transportation &amp; Logistics</option>
+            </select>
+        </div>
+    </form></div>
+            <nav id="feature_home_nav"><ul>    <li class="e917">
+<style>.e917 a:before {content:"\e917";}</style>            <a href="/cloud"  >Cloud</a>
+
+        
+    </li>
+    <li class="e932">
+<style>.e932 a:before {content:"\e932";}</style>            <a href="/managed-services"  >Managed Services</a>
+
+        
+    </li>
+    <li class="e91b">
+<style>.e91b a:before {content:"\e91b";}</style>            <a href="/colocation"  >Colocation</a>
+
+        
+    </li>
+    <li class="e924">
+<style>.e924 a:before {content:"\e924";}</style>            <a href="/erp-application-management"  >ERP Application Management</a>
+
+        
+    </li>
+    <li class="e92b">
+<style>.e92b a:before {content:"\e92b";}</style>            <a href="/hardware-software"  >Hardware &amp; Software</a>
+
+        
+    </li>
+    <li class="e93c">
+<style>.e93c a:before {content:"\e93c";}</style>            <a href="/professional-services"  >Professional Services</a>
+
+        
+    </li>
+    <li class="e92c">
+<style>.e92c a:before {content:"\e92c";}</style>            <a href="/hybrid-solutions"  >Hybrid Solutions</a>
+
+        
+    </li>
+</ul></nav>
+        </div>
+        <div id="feature_bottom">
+            <div id="feature_callouts"><div class="item ">
+<div class="image"><img src="/media/1005/logo_fender.png" alt="Fender" /></div>        <div class="text">
+            <p>"Our partnership with OneNeck provides us with the security of business continuity and IT system effectiveness. With their support, we can focus our efforts on our passion, producing the world's greatest instruments, instead of worrying about our IT systems."</p>
+<p style="text-align: right;"><em>- </em><em>Chief Information Officer</em></p>
+        </div>
+    </div>
+    <div class="item ">
+<div class="image"><img src="/media/1024/targus_white.png" alt="Targus_white.png" /></div>        <div class="text">
+            <p><span>"OneNeck employs a unique customer management model that supports both the end user and IT management. By maintaining a close relationship they consistently direct resources in a way that ensures success."</span></p>
+<p style="text-align: right;"><em>- </em><em>Chief Information Officer, Targus</em></p>
+        </div>
+    </div>
+    <div class="item ">
+<div class="image"><img src="/media/1021/rs-candies_white.png" alt="RS-Candies_white.png" /></div>        <div class="text">
+            <p><span>"Russell Stover Candies selected OneNeck in 1999 after a failed relationship with a much larger firm. Since that time, OneNeck has distinguished themselves by helping us to first stabilize and then gain competitive advantages from our ERP solution."</span></p>
+<p style="text-align: right;"><em>- </em><em>Vice President of Information Technology</em></p>
+        </div>
+    </div>
+    <div class="item ">
+<div class="image"><img src="/media/1023/mountainpark_white.png" alt="MountainPark_white.png" /></div>        <div class="text">
+            <p><span>"Mountain Park Health Center has been in partnership with OneNeck for the last six years. Without them making sure that the IT Infrastructure of our organization was solid, serving our 55,000 active patients would be a daunting task."</span></p>
+<p style="text-align: right;"><em>- </em><em>Chief Operating Officer</em></p>
+        </div>
+    </div></div>
+        </div>
+    </section>
+            <main>
+                
+
+
+
+    <section id="promotion_rotator">
+        <div class="title">Current Promotions:</div>
+        <div class="rotator">
+            <div class="items">
+                <div class="items_inner">
+                            <div class="item">
+                                <img src="/media/1660/ax.jpg" alt="We Run Ax" />
+                                <div class="content_holder"><h5>You run your business. We run AX.</h5>
+<p>Find out how we do the heavy lifting for our customers.</p>
+<p><span class="button"><a href="/werunax">Learn More</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1661/ciscospark.jpg" alt="Cisco Spark" />
+                                <div class="content_holder"><h5>SPARK your business</h5>
+<p>Collaboration with Cisco Spark can ignite productivity.</p>
+<p><span class="button"><a href="/spark">Find Out How</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1662/cloudrisk.jpg" alt="Cloud Risk Eliminated" />
+                                <div class="content_holder"><h5>Cloud Risk? Eliminated.</h5>
+<p>ReliaCloud® is built for your most demanding workloads.</p>
+<p><span class="button"><a href="/cloudrisk">Download Whitepaper</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1659/colo-buyers-guide.jpg" alt="Colocation Buyers Guide" />
+                                <div class="content_holder"><h5>Get out of the dark!</h5>
+<p>Download a FREE comprehensive colocation buyers guide today.</p>
+<p><span class="button"><a href="/colocation-buyers-guide">Download the Buyer's Guide</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1663/emc.gif" alt="EMC Storage" />
+                                <div class="content_holder"><h5>Find out what Unity Flash Storage can do for you.</h5>
+<p>Get a FREE HP 2-in-1 when you meet with an expert.</p>
+<p><span class="button"><a href="/flashoffer">Schedule a Meeting</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1664/hp2in1.jpg" alt="HP 2-in-1" />
+                                <div class="content_holder"><h5>You're this close to making an IT decision.</h5>
+<p>Let OneNeck® Help.</p>
+<p><span class="button"><a href="/2in1">Start Now</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1665/ms-power.jpg" alt="MS Power" />
+                                <div class="content_holder"><h5>Plug into the power.</h5>
+<p>Experience the power of fully-staffed IT experts working for you.</p>
+<p><span class="button"><a href="/power">Learn More</a></span></p></div>
+                            </div>
+                            <div class="item">
+                                <img src="/media/1666/on_banana.gif" alt="ON Banana" />
+                                <div class="content_holder"><h5>Don't be fooled. Results matter.</h5>
+<p>We have the right hybrid solution for you.</p>
+<p><span class="button"><a href="/dontbefooled">Get Started</a></span></p></div>
+                            </div>
+                </div>
+                <div class="controls"></div>
+            </div>
+            <div class="content"></div>
+        </div>
+    </section>
+<section id="promo_content">
+    <div class="main"><h5 class="p1"><span class="s1"><strong>OneNeck<sup>®</sup> IT Solutions launches OneNeck Connect for Azure</strong><br /></span></h5>
+<h6 class="p1"><span class="s1">Service provides high-performing, secure network redundancy to Microsoft Azure<br /><br /></span></h6>
+<p class="p1"><span class="s1">Direct, redundant network connectivity from OneNeck's Tier 3 data centers via Azure ExpressRoute will provide higher security and reliability and low-latency speeds for data and applications within Azure.</span></p></div>
+    <div class="secondary"><p><img id="__mcenew" src="/media/1677/azure_connect_web_graphic-003.jpg" alt="" data-id="5015"></p>
+<p> <a data-id="5013" href="/news-events/news-releases/oneneckconnectazure" target="_blank" title="OneNeckConnectAzure"><span class="button">Get the details</span></a></p></div>
+</section>
+<section id="news_content" style="background-image:url(/media/1007/honeycomb_server.jpg);">
+    <div class="inner">
+        <div class="main"><h2><span><strong>Webinar</strong>: <em>Governance in a Hybrid World</em> </span></h2></div>
+        <div class="secondary">
+            <div class="secondary_inner"><p>             <a href="http://info.oneneck.com/oneneck/451-research-webinar"><img id="__mcenew" src="/media/1693/webinar-governance.png?width=243&amp;height=183" alt="" width="243" height="183" data-id="5061"></a></p>
+<p>Co-Hosted by OneNeck and 451 Research, this recorded webinar examines the use of cloud infrastructure to deliver IT services as the new industry normal.</p>
+<p>             </p></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</section>
+<section id="resource_content">
+
+    <div class="border_title_wrapper">
+        <div class="border_title"><h6>Download the Whitepaper:</h6></div>
+    </div>
+    <div class="inner">
+        <div class="main">
+            <h5>Cloud Hosting Myths Debunked</h5>
+<p>with OneNeck's Cloud and Hosting Solutions</p>
+            <p class="link">From the OneNeck IT <a href="/resources">Resource Library</a></p>
+        </div>
+        <div class="secondary">
+        </div>
+    </div>
+</section>
+<section id="datacenter_content">
+    <div class="inner">
+        <div class="main">
+            <h3>State-of-the-Art Data Centers</h3>
+            <form id="datacenter_select">
+                <div class="select jumpmenu">
+                    <select onChange="window.location = this.options[this.selectedIndex].value">
+                        <option value="">Data Centers</option>
+                            <option value="/colocation/data-centers/gilbert">Arizona: Gilbert</option>
+                            <option value="/colocation/data-centers/tempe">Arizona: Tempe</option>
+                            <option value="/colocation/data-centers/denver">Colorado: Denver</option>
+                            <option value="/colocation/data-centers/cedar-falls">Iowa: Cedar Falls</option>
+                            <option value="/colocation/data-centers/des-moines">Iowa: Des Moines</option>
+                            <option value="/colocation/data-centers/minneapolis">Minnesota: Minneapolis</option>
+                            <option value="/colocation/data-centers/somerset">New Jersey: Somerset</option>
+                            <option value="/colocation/data-centers/bend">Oregon: Bend</option>
+                            <option value="/colocation/data-centers/madison">Wisconsin: Madison</option>
+                    </select>
+                </div>
+            </form>
+            <div class="links"><a href="/colocation">Learn More</a><a href="/colocation/request-a-tour">Schedule a Tour</a></div>
+        </div>
+        <div class="secondary"><img src="/common/img/datacenter_map.png" alt="Data Centers" /></div>
+    </div>
+</section>
+<section id="newsevents_content">
+    <div class="column"><div class="featured_news">
+    <div class="title"><h5>News</h5></div>
+    <div class="content">
+        <div class="list">
+                <div class="item">
+                    <div class="date">November 17, 2016 <span class="separator"></span> In The News</div>
+                    <a href="http://www.datacentres.com/dc-news/saif-chooses-oneneck-colo-and-dr" target="_blank">SAIF chooses OneNeck for colo and DR</a>
+                </div>
+                <div class="item">
+                    <div class="date">November 16, 2016 <span class="separator"></span> In The News</div>
+                    <a href="http://www.missioncriticalmagazine.com/articles/88754-oregons-saif-chooses-oneneck-it-solutions-to-manage-disaster-recovery?hootPostID=c9453c6b7678a7374510eb500c030bf2" target="_blank">Oregon’s SAIF Chooses OneNeck&#174; IT Solutions To Manage Disaster Recovery</a>
+                </div>
+                <div class="item">
+                    <div class="date">November 16, 2016 <span class="separator"></span> Press Release</div>
+                    <a href="/news-events/news-releases/saifchoosesoneneck" target="">Oregon’s SAIF chooses OneNeck&#174; IT Solutions to manage disaster recovery solution</a>
+                </div>
+        </div>
+    </div>
+    <a href="/news-events" class="link">Read all News</a>
+</div></div>
+    <div class="column"><div class="featured_news">
+    <div class="title"><h5>Events</h5></div>
+    <div class="content">
+        <div class="list">
+                <div class="item event">
+                    <div class="date_column">
+                        <div class="date">
+                            <span>Dec</span><br />
+                            <span>05</span>
+                            <div class="right-arrow"></div>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <h6><a href="/news-events/events/2016-na-data-center-infrastructure-operations-management-conference">2016 NA Data Center, Infrastructure &amp; Operations Management Conference</a></h6>
+<div class="location"><span class="location_icon"></span> Las Vegas, NV</div>                    </div>
+                </div>
+                <div class="item event">
+                    <div class="date_column">
+                        <div class="date">
+                            <span>Dec</span><br />
+                            <span>07</span>
+                            <div class="right-arrow"></div>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <h6><a href="/news-events/events/cisco-on-the-road-minnesota">Cisco on the Road: Minnesota </a></h6>
+<div class="location"><span class="location_icon"></span> Minneapolis, MN</div>                    </div>
+                </div>
+        </div>
+    </div>
+    <a href="/news-events/events" class="link">View all events</a>
+</div></div>
+</section>
+            </main>
+                <footer id="footer">
+                    <nav id="footer_nav"><ul>    <li class="e952">
+<style>.e952 a:before {content:"\e952";}</style>            <a href="/about-us"  >About Us</a>
+
+        
+    </li>
+    <li >
+            <a href="/about-us/careers"  >Careers</a>
+
+        
+    </li>
+    <li class="e938">
+<style>.e938 a:before {content:"\e938";}</style>            <a href="/news-events"  >News &amp; Events</a>
+
+        
+    </li>
+    <li >
+            <a href="/news-events/blog"  >Blog</a>
+
+        
+    </li>
+    <li >
+            <a href="/partners"  >Partners</a>
+
+        
+    </li>
+    <li >
+            <a href="/contact-us"  >Contact Us</a>
+
+        
+    </li>
+    <li >
+            <a href="/sitemap"  >Sitemap</a>
+
+        
+    </li>
+    <li >
+            <a href="/privacy-and-terms"  >Privacy and Terms</a>
+
+        
+    </li>
+</ul></nav>
+                    <div id="footer_content">
+                        <div id="footer_social">
+<a href="https://www.facebook.com/OneNeckITSolutions" target="_blank" class="facebook"></a>                            <a href="https://twitter.com/oneneck_it" target="_blank" class="twitter"></a>                            <a href="https://www.linkedin.com/company/oneneck-it-solutions" target="_blank" class="linkedin"></a>                            <a href="https://www.youtube.com/user/oneneckITsolutions" target="_blank" class="youtube"></a>                            <a href="https://plus.google.com/+OneneckIT/posts" target="_blank" class="google"></a>                        </div>
+                        <div id="footer_form"><div class="form_widget">
+    <div id="contour_form_eNewsletter" class="contour enewsletter">
+        <form action="/enewsletter" novalidate="novalidate">
+            <div class="contourPage">
+                <h4 class="contourPageName">Sign up for our eNewsletter:</h4>
+                <fieldset>
+                    <div class="contourFieldSet">
+                        <div class="row-fluid">
+                            <div class="span12 col-md-12">
+                                <div class="contourField firstname textfield mandatory alternating">
+                                    <label for="newsletter_fname" class="fieldLabel">First Name<span class="contourIndicator">*</span></label>
+                                    <div class="contourFieldWrapper">
+                                        <input type="text" name="firstname" id="newsletter_fname" class="text" value="" placeholder="First Name" maxlength="500">
+                                    </div>
+                                    <div class="next"></div>
+                                </div>
+                                <div class="contourField lastname textfield mandatory">
+                                    <label for="newsletter_lname" class="fieldLabel">Last Name<span class="contourIndicator">*</span></label>
+                                    <div class="contourFieldWrapper">
+                                        <input type="text" name="lastname" id="newsletter_lname" class="text" value="" placeholder="Last Name" maxlength="500">
+                                    </div>
+                                    <div class="next"></div>
+                                </div>
+                                <div class="contourField email textfield mandatory alternating last">
+                                    <label for="newsletter_email" class="fieldLabel">Email<span class="contourIndicator">*</span></label>
+                                    <div class="contourFieldWrapper">
+                                        <input type="text" name="email" id="newsletter_email" class="text" value="" placeholder="Work Email" maxlength="500" data-val="true">
+                                    </div>
+                                    <div class="next"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+                <div class="steps"></div>
+                <div class="contourNavigation row-fluid">
+                    <div class="col-md-12">
+                        <input type="submit" class="btn primary" value="Submit">
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div></div>                        
+                    </div>
+                    <div id="footer_search">
+                        <form action="/search-results">
+                            <input type="text" name="q" placeholder="Search" />
+                            <input type="submit" />
+                        </form>
+                        <div class="icon"></div>
+                    </div>
+                    <div id="footer_tds">
+                        <div class="image">
+                            <img src="/common/img/500Logo_2016.png" height="60" width="64" alt="Fortune 500" /> &nbsp; <img src="/common/img/logo-tds.png" height="60" width="68" alt="TDS" />
+                        </div>
+                        <div class="text">OneNeck IT Solutions is a subsidiary of Telephone and Data Systems, Inc., recognized as a <br /> Fortune 500<sup>&reg;</sup> 2016 company.</div>
+                    </div>
+                    <div id="copyright">&copy;2016 OneNeck IT Solutions LLC, All rights reserved</div>
+                </footer>
+            <div id="nav_wrapper">
+                <div class="top">
+                    <div id="nav_search">
+                        <form action="/search-results">
+                            <input type="text" name="q" placeholder="Search" />
+                            <input type="submit" />
+                        </form>
+                        <div class="icon"></div>
+                    </div>
+                </div>
+                <nav id="main_nav"><ul>    <li class="e917">
+<style>.e917 a:before {content:"\e917";}</style>            <a href="/cloud"  >Cloud</a>
+
+        <ul>    <li >
+            <a href="/cloud/hybrid-cloud/on-premises-private-cloud"  >On-Premises Private Cloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/cloud/hosted-private-cloud"  >Hosted Private Cloud</a>
+
+        <ul>    <li >
+            <a href="/cloud/hosted-private-cloud/backup-as-a-service"  >Backup as a Service</a>
+
+        
+    </li>
+    <li >
+            <a href="/cloud/hosted-private-cloud/disaster-recovery-as-a-service"  >Disaster Recovery as a Service</a>
+
+        
+    </li>
+    <li >
+            <a href="/cloud/hosted-private-cloud/oneneck-connect"  >OneNeck Connect</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/cloud/managed-microsoft-azure"  >Public Cloud</a>
+
+        <ul>    <li >
+            <a href="/cloud/managed-microsoft-azure/oneneck-connect-for-azure"  >OneNeck Connect for Azure</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/cloud/hybrid-cloud"  >Hybrid Cloud</a>
+
+        <ul>    <li >
+            <a href="/cloud/hosted-private-cloud"  >Hosted Private Cloud Powered by ReliaCloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/cloud/hybrid-cloud/on-premises-private-cloud"  >On-Premises Private Cloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/cloud/managed-microsoft-azure"  >Managed Microsoft Azure</a>
+
+        
+    </li>
+</ul>
+    </li>
+</ul>
+    </li>
+    <li class="e932">
+<style>.e932 a:before {content:"\e932";}</style>            <a href="/managed-services"  >Managed Services</a>
+
+        <ul>    <li >
+            <a href="/managed-services/applications"  >Applications</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/backup-disaster-recovery"  >Backup &amp; Disaster Recovery</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/communication-collaboration"  >Communication &amp; Collaboration</a>
+
+        <ul>    <li >
+            <a href="/managed-services/communication-collaboration/cisco-unified-communications"  >Cisco Unified Communications</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/communication-collaboration/microsoft-exchange"  >Microsoft Exchange</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/communication-collaboration/microsoft-sharepoint"  >Microsoft SharePoint</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/managed-services/database"  >Database</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/network"  >Network</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/security-compliance"  >Security &amp; Compliance</a>
+
+        <ul>    <li >
+            <a href="/managed-services/security-compliance/data-encryption"  >Data Encryption</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/security-compliance/security-information-event-management"  >Security Information &amp; Event Management</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/managed-services/servers"  >Servers</a>
+
+        
+    </li>
+    <li >
+            <a href="/managed-services/storage"  >Storage</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li class="e91b">
+<style>.e91b a:before {content:"\e91b";}</style>            <a href="/colocation"  >Colocation</a>
+
+        <ul>    <li >
+            <a href="/colocation"  >Data Centers</a>
+
+        <ul>    <li >
+            <a href="/colocation/data-centers/gilbert"  >Gilbert</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/tempe"  >Tempe</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/denver"  >Denver</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/cedar-falls"  >Cedar Falls</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/des-moines"  >Des Moines</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/minneapolis"  >Minneapolis</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/somerset"  >Somerset</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/bend"  >Bend</a>
+
+        
+    </li>
+    <li >
+            <a href="/colocation/data-centers/madison"  >Madison</a>
+
+        
+    </li>
+</ul>
+    </li>
+</ul>
+    </li>
+    <li class="e924">
+<style>.e924 a:before {content:"\e924";}</style>            <a href="/erp-application-management"  >ERP Application Management</a>
+
+        <ul>    <li >
+            <a href="/erp-application-management/microsoft-dynamics-ax"  >Microsoft Dynamics AX</a>
+
+        <ul>    <li >
+            <a href="/erp-application-management/microsoft-dynamics-ax/ax-on-reliacloud"  >AX on ReliaCloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/erp-application-management/microsoft-dynamics-ax/ax-assessment-health-check-service"  >AX Assessment &amp; Health Check Service</a>
+
+        
+    </li>
+    <li >
+            <a href="/erp-application-management/microsoft-dynamics-ax/microsoft-dynamics-ax-on-azure"  >Microsoft Dynamics AX on Azure</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/erp-application-management/oracle"  >Oracle</a>
+
+        <ul>    <li >
+            <a href="/erp-application-management/oracle/oracle-e-business-suite"  >Oracle E-Business Suite</a>
+
+        
+    </li>
+    <li >
+            <a href="/erp-application-management/oracle/oracle-on-reliacloud"  >Oracle on ReliaCloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/erp-application-management/oracle/oracle-technology"  >Oracle Technology</a>
+
+        
+    </li>
+    <li >
+            <a href="/erp-application-management/oracle/oracle-assessments-and-health-check-services"  >Oracle Assessments and Health Check Services</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/erp-application-management/sap"  >SAP</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li class="e92b">
+<style>.e92b a:before {content:"\e92b";}</style>            <a href="/hardware-software"  >Hardware &amp; Software</a>
+
+        <ul>    <li >
+            <a href="/hardware-software/cisco"  >Cisco</a>
+
+        
+    </li>
+    <li >
+            <a href="/hardware-software/citrix"  >Citrix</a>
+
+        
+    </li>
+    <li >
+            <a href="/hardware-software/emc"  >EMC</a>
+
+        
+    </li>
+    <li >
+            <a href="/hardware-software/f5"  >F5</a>
+
+        
+    </li>
+    <li >
+            <a href="/hardware-software/hpe"  >HPE</a>
+
+        
+    </li>
+    <li >
+            <a href="/hardware-software/vmware"  >VMware</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li class="e93c">
+<style>.e93c a:before {content:"\e93c";}</style>            <a href="/professional-services"  >Professional Services</a>
+
+        <ul>    <li >
+            <a href="/professional-services/design-implementation"  >Design &amp; Implementation</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments"  >IT Assessments</a>
+
+        <ul>    <li >
+            <a href="/professional-services/it-assessments/ax-assessment-healthcheck-service"  >AX Assessment &amp; HealthCheck Service</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/cloud-consumption-assessment"  >Cloud Consumption Assessment</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/hybrid-cloud"  >Hybrid Cloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/hybrid-cloud-infrastructure"  >Hybrid Cloud Infrastructure</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/network"  >Network</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/security"  >Security</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/storage-backup"  >Storage Backup</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/unified-communications"  >Unified Communications</a>
+
+        
+    </li>
+    <li >
+            <a href="/professional-services/it-assessments/wireless"  >Wireless</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/professional-services/technology-consulting"  >Technology Consulting</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li class="e92c">
+<style>.e92c a:before {content:"\e92c";}</style>            <a href="/hybrid-solutions"  >Hybrid Solutions</a>
+
+        <ul>    <li >
+            <a href="/hybrid-solutions/cloud"  >Cloud</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/collaboration"  >Collaboration</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/customer-experience"  >Customer Experience</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/data-center"  >Data Center</a>
+
+        <ul>    <li >
+            <a href="/hybrid-solutions/data-center/converged-infrastructure"  >Converged Infrastructure</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/data-center/simplivity"  >Simplivity</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/data-center/sdn"  >SDN</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/hybrid-solutions/end-user-computing"  >End User Computing</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries"  >Industries</a>
+
+        <ul>    <li >
+            <a href="/hybrid-solutions/industries/education"  >Education</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/energy-utilities"  >Energy &amp; Utilities</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/engineering-construction"  >Engineering &amp; Construction</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/food-beverage"  >Food &amp; Beverage</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/healthcare"  >Healthcare</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/manufacturing-distribution"  >Manufacturing &amp; Distribution</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/non-profit"  >Non-profit</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/private-equity"  >Private Equity</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/professional-services"  >Professional Services</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/public-sector"  >Public Sector</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/retail"  >Retail</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/transportation-logistics"  >Transportation &amp; Logistics</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/hybrid-solutions/managed-services"  >Managed Services</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/mobility"  >Mobility</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/network"  >Network</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/security"  >Security</a>
+
+        
+    </li>
+</ul>
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries"  >Industries</a>
+
+        <ul>    <li >
+            <a href="/hybrid-solutions/industries/education"  >Education</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/energy-utilities"  >Energy &amp; Utilities</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/engineering-construction"  >Engineering &amp; Construction</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/food-beverage"  >Food &amp; Beverage</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/healthcare"  >Healthcare</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/manufacturing-distribution"  >Manufacturing &amp; Distribution</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/non-profit"  >Non-profit</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/private-equity"  >Private Equity</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/professional-services"  >Professional Services</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/public-sector"  >Public Sector</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/retail"  >Retail</a>
+
+        
+    </li>
+    <li >
+            <a href="/hybrid-solutions/industries/transportation-logistics"  >Transportation &amp; Logistics</a>
+
+        
+    </li>
+</ul>
+    </li>
+</ul></nav>
+                <nav id="main_nav_bottom"><ul>    <li class="e93d">
+<style>.e93d a:before {content:"\e93d";}</style>            <a href="/resources"  >Resource Library</a>
+
+        
+    </li>
+    <li class="e952">
+<style>.e952 a:before {content:"\e952";}</style>            <a href="/about-us"  >About Us</a>
+
+        
+    </li>
+    <li class="e938">
+<style>.e938 a:before {content:"\e938";}</style>            <a href="/news-events"  >News &amp; Events</a>
+
+        
+    </li>
+</ul></nav>
+            </div>
+            <div id="nav_close"></div>         
+        </div>
+        <div id="live_chat">
+            <a href="http://livechat.boldchat.com/aid/1552524482844164345/bc.chat?cwdid=100712349757654475&amp;wdid=907732915312863540" target="_blank" onclick="window.open((window.pageViewer && pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat1762750052833291270', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;" class="link"></a>
+        </div>
+        <div id="absolute">
+            <div id="overlay"></div>
+            <div id="absolute_content"><div class="content"></div><div class="close"></div></div>
+        </div>
+        <!--[if IE 9]></div><![endif]-->
+        <!--[if IE 8]></div><![endif]-->
+        <script src="/DependencyHandler.axd?s=L2NvbW1vbi9zY3JpcHQvcHJvbW90aW9ucy1yb3RhdG9yLmpzOy9jb21tb24vc2NyaXB0L2pxdWVyeS5lYXNpbmcuMS4zLmpzOy9jb21tb24vc2NyaXB0L2Jhc2UuanM7&amp;t=Javascript&amp;cdv=19" type="text/javascript"></script>
+        
+        
+        <script type="text/javascript">
+//<![CDATA[
+var DID=250568;
+var pssl=(window.location.protocol == "https:") ? "https://stats.sa-as.com/lib.js":"http://stats.sa-as.com/lib.js";
+document.writeln('<scr'+'ipt async src="'+pssl+'" type="text\/javascript"><\/scr'+'ipt>');
+//]]!>
+</script>
+
+<iframe src="https://secure.img-cdn.mediaplex.com/0/29197/universal.html?page_name=visits&Visits=1&mpuid=" HEIGHT=1 WIDTH=1 FRAMEBORDER=0></iframe>
+
+<!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2295439.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 973600807;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]!> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973600807/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+    </body>
+</html>

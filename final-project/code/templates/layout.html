@@ -7,16 +7,14 @@
 <script type="text/javascript" src="/static/semantic-min.js"></script>
 <body>
 
-
-  <div class="ui left fixed vertical menu" style="width:300px">
+  <div class="ui left fixed vertical menu" style="width:300px; overflow: scroll;">
     <div class="item">
       <h3>Bag of Visual Words</h3>
       <a class="item" href="/23">Similar Image Search</a>
       <a class="item" href="/categories/0">Image Categories</a>
       <h3>Convolutional Neural Network</h3>
-      <a class="item">Object Recognition</a>
-      <a class="item">Image Categories</a>
-      <a class="item"></a>
+      <a class="item" href="/cnn">Object Recognition</a>
+      <a class="item" href="/cnn/labels">Image Labels</a>
     </div>
 
     {% if type == 'image' %}
@@ -34,6 +32,13 @@
         <h3>Other categories</h3>
         {% for i in [0, 1, 2, 3, 4] %}
         <p><a class="ui label category-{{ i }}" href="/categories/{{ i }}">Category-{{ i }}</a> </p>
+        {% endfor %}
+      </div>
+    {% elif type == 'label' %}
+      <div class="item">
+        <h1>Labels</h1>
+        {% for name_info in name_map %}
+        <p><a class="ui label" href="/cnn/labels/{{ name_info['id'] }}">{{ name_info['count'] }}: {{ name_info['name'] }}</a> </p>
         {% endfor %}
       </div>
     {% endif %}

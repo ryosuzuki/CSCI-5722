@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+
+	<meta name="GENERATOR" content="IMPERIA 9.2.10" />
+
+
+	<meta charset="UTF-8" />
+	<title>Fehler 404 - IHK Frankfurt am Main</title>
+	<meta property="og:site_name" content="IHK Frankfurt am Main" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://www.frankfurt-main.ihk.de/sonstiges/errors/404/" />
+	<meta property="og:title" content="Fehler 404" name="headline" />
+	<meta property="og:description" name="description" content="                                                      ">
+
+<meta name="X-Imperia-Live-Info" content="0934e830-c833-1c1c-33ab-f009a69108a6/13/123/704/19983" />
+		<link rel="stylesheet" href="/css/ihk-portal-styles.css" type="text/css" />
+		<link rel="stylesheet" href="/css/navigation.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="/css/ihk-style-metaportal.css" />
+<!--[if gte IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/ihk-override-ie7.css" />
+<![endif]-->
+<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/ihk-override-metaportal-ie7.css" />
+<![endif]-->
+		<link rel="stylesheet" type="text/css" href="/css/jquery_autocomplete.css" />
+		<script type="text/javascript" src="/js/global.js"></script>
+		<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.dimensions.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.lightbox-0.5.js"></script>
+		<script type="text/javascript" src="/js/jquery.accordion.js"></script>
+		<script type="text/javascript" src="/js/jquery_ui/jquery.ui.core.js"></script>
+		<script type="text/javascript" src="/js/jquery_ui/jquery.ui.widget.js"></script>
+		<script type="text/javascript" src="/js/jquery_ui/jquery.ui.position.js"></script>
+		<script type="text/javascript" src="/js/jquery_ui/jquery.ui.autocomplete.js"></script>
+		<script type="text/javascript" src="/js/ihk-metaportal-basic.js"></script>
+		<!-- head-footer -->
+<!-- /head-footer -->
+
+	</head>
+	<body class="portal_">
+	<!-- body-header -->
+
+
+		
+		
+		
+		
+
+
+
+		<div id="page">
+		<div id="pageWrapper">
+<!-- flex: metaportal_navi.perl -->
+	<div id="header">
+		<dfn class="overlay">&nbsp;</dfn>
+
+		<header>
+			<a title="Home" target="_top" href="/">
+				<img width="165" height="82" class="logo" alt="IHK" src="/img/metaportal/logo-header-ihk-ffm.jpg" />
+				<img width="189" height="28" class="logoText" alt="Industrie- und Handelskammer Frankfurt am Main" src="/img/metaportal/logo-header-ihk-ffm-text.png" />
+			</a>
+		</header>
+
+		<ul class="headMetaNavigation">
+			<li class="first">
+				<dl class="dropdown dropdown_static">
+					<dt><a href="/english/" class="languageSelector langEN"><dfn class="arrow">&nbsp;</dfn>English</a><dfn class="shadow">&nbsp;</dfn></dt>
+					<dd>
+						<ul>
+							<li><a href="/" class="languageSelector langDE">Deutsch</a></li>
+						</ul>
+					</dd>
+				</dl>
+			</li>
+			<li><a href="/presse/">Presse</a></li>
+			<li><a href="/ihk/service-einrichtungen/ihk-service-center/">Service-Center</a></li>
+			<li class="last"><a href="/schlagworte/">IHK von A-Z</a></li>
+		</ul>
+
+		<form name="searchForm" enctype="application/x-www-form-urlencoded" action="/cgi-bin/suche.pl" method="get" class="searchForm">
+			<input type="search" maxlength="150" size="20" name="SEARCH" id="querySearchHeader" class="query" />
+			<input type="image" src="/img/metaportal/icon-search.gif" class="submit" alt="Suchen" />
+		</form>
+
+		<nav>
+			<ul class="mainNavigation">
+
+			<li class="level1 childCount16 ">
+				<a href="/themen">Themen</a>
+				<div class="navL2">
+					<ul>
+						<li><a href="/berufsbildung">Aus- und Weiterbildung</a></li>
+						<li><a href="/recht">Recht und Steuern</a></li>
+						<li><a href="/existenzgruendung">Existenzgründung und -sicherung</a></li>
+						<li><a href="/csr">CSR und Nachhaltigkeit</a></li>
+						<li><a href="/standortpolitik/fachkraefte_demografie_arbeitsmarkt">Fachkräfte, Demografie und Arbeitsmarkt</a></li>
+						<li><a href="/finanzplatz">Finanzplatz Frankfurt</a></li>
+						<li><a href="/industrie_innovation_umwelt">Industrie, Innovation und Umwelt</a></li>
+						<li><a href="/international">International</a></li>
+						<li><a href="/branchen/e-business/">Internet und E-Business</a></li>
+						<li><a href="/kommunale_finanzen/">Kommunale Finanzen</a></li>
+						<li><a href="/standortpolitik/konjunktur_statistik">Konjunktur und Statistik</a></li>
+						<li><a href="/standortpolitik/metropolregion">Metropolregion FrankfurtRheinMain</a></li>
+						<li><a href="/standortpolitik/mittelstandspolitik">Mittelstandspolitik</a></li>
+						<li><a href="/unternehmensfoerderung">Unternehmensförderung</a></li>
+						<li><a href="/standortpolitik/fachkraefte_demografie_arbeitsmarkt/zuwanderung_und_integration">Zuwanderung und Integration</a></li>
+						<li><a href="/standortpolitik/positionen_projekte">IHK: Alle Positionen und Projekte</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li class="level1 childCount11 ">
+				<a href="/branchen">Branchen</a>
+				<div class="navL2">
+					<ul>
+						<li><a href="/branchen/finanzplatz/">Banken, Versicherungen und Finanzdienstleister</a></li>
+						<li><a href="/branchen/immobilien/">Bau- und Immobilienwirtschaft</a></li>
+						<li><a href="/branchen/bewachungsgewerbe/">Bewachungsgewerbe</a></li>
+						<li><a href="/branchen/handel/">Einzelhandel und Handelsvertreter</a></li>
+						<li><a href="/branchen/gastronomie_tourismus">Gastronomie und Tourismus</a></li>
+						<li><a href="/branchen/grosshandel/">Groß- und Außenhandel</a></li>
+						<li><a href="/industrie_innovation_umwelt/">Industrie</a></li>
+						<li><a href="/branchen/e-business/">Internet und E-Business</a></li>
+						<li><a href="/branchen/mediacity/">Medien, Werbung, IT und Kommunikation</a></li>
+						<li><a href="/branchen/verkehr/">Verkehr und Logistik</a></li>
+						<li><a href="/branchen/wirtschaftsberatung/">Wirtschaftsberatung</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li class="level1 childCount0 ">
+				<a href="/veranstaltungen">Veranstaltungen</a>
+			</li>
+
+			<li class="level1 childCount0 ">
+				<a href="/newsletter">Newsletter</a>
+			</li>
+
+			<li class="level1 childCount0 ">
+				<a href="/publikationen">Publikationen</a>
+			</li>
+
+			<li class="level1 childCount0 ">
+				<a href="/ihk/vorstellung/beitrag/">IHK-Beitrag</a>
+			</li>
+
+			<li class="level1 childCount0 ">
+				<a href="/anfahrt_kontakt/">Kontakt</a>
+			</li>
+
+			<li class="level1 childCount6 ">
+				<a href="/ihk">Wir über uns</a>
+				<div class="navL2 navL2RightFixed">
+					<ul>
+						<li><a href="/ihk/vorstellung/">Die IHK stellt sich vor</a></li>
+						<li><a href="/ihk/service-einrichtungen/">IHK-Service-Einrichtungen</a></li>
+						<li><a href="/ihk/stellen/">Karriere in der IHK</a></li>
+						<li><a href="/ihk/referendarausbildung/">Referendarausbildung</a></li>
+						<li><a href="/ihk/wirtschaftsjunioren/">Wirtschaftsjunioren</a></li>
+						<li><a href="/ihk/200jahre/">Geschichte</a></li>
+					</ul>
+				</div>
+			</li>
+			</ul>
+		</nav>
+	</div>
+<!-- /flex: metaportal_navi.perl -->
+
+
+			<div id="content">
+
+				<!-- breadcrumb -->
+				<div class="breadcrumb">
+				<ul>
+					<li><a href="/">IHK-Startseite</a></li>
+</ul>
+</div>
+
+				<!-- breadcrumb end -->
+
+				<!-- left column -->
+				<div class="left">
+					<div class="left-navi-logo">
+					
+					</div>
+
+
+					<div id="aktion_links">
+					
+	
+
+
+
+
+
+
+
+
+
+					</div>
+				</div>
+				<!-- left column end -->
+
+				<!-- middle column -->
+<!-- CONTENT-Bereich -->
+				<div class="middle">
+<!-- IMPERIA middle column-->
+
+					<!-- page title + teaser-->
+					<!-- save mode -->
+					<h1 class="important">Fehler 404</h1>
+					<!-- save mode end -->
+					<!-- page title + teaser end-->
+
+
+	<!-- Flex-Module: portal_content -->
+
+<div class="presentational">
+	<div class="presentational-superheader"><h4>Seite nicht gefunden!</h4></div>
+	<div class="presentational-content" style="padding:10px">
+		<p style="margin-bottom:1em;">Liebe Leserin, lieber Leser!</p>
+		<p style="margin-bottom:1em;">Die von Ihnen aufgerufene Seite existiert leider nicht (mehr) unter dieser Adresse.</p>
+		<p>Versuchen Sie bitte, den gewünschten Inhalt über <a href="/schlagworte/" class="cpylnk">IHK von A-Z</a> oder über unsere Suchmaschine zu finden.</p>
+		<form style="margin:1em 0;" name="searchForm" action="/cgi-bin/suche.pl" method="get" class="searchForm"> 
+			<input type="text" maxlength="50" size="20" name="SEARCH" class="query" style="height: 28px;vertical-align: 8px;margin-right: -5px;width:440px" /> 
+			<input type="image" src="/img/metaportal/icon-search.gif" style="vertical-align:text-bottom" class="submit" /> 
+		</form>
+		<p style="margin-bottom:1em;">Vielen Dank für Ihr Verständnis!</p>
+		<p>Ihre IHK Frankfurt am Main</p> 
+	</div>
+</div>
+
+
+
+	<!-- /Flex-Module: portal_content -->
+
+
+<!-- /IMPERIA middle column-->
+				</div>
+<!-- /CONTENT-Bereich -->
+				<!-- middle column end -->
+
+				<!-- right column -->
+				<div class="right">
+					<ul class="socialbookmark">
+						<li class="second"><a href="javascript:window.print();" class="print">&nbsp;</a></li>
+					</ul>
+					<div class="clearBoth">&nbsp;</div>
+
+
+
+<!-- rechte Marginalspalte -->
+
+<!-- IMPERIA right column -->
+
+	<!-- Flex-Module: portal_marginal -->
+
+	<!-- /Flex-Module: portal_marginal -->
+
+
+<!-- /IMPERIA right column-->
+<!-- /rechte Marginalspalte -->
+				</div>
+				<div class="clearBoth">&nbsp;</div>
+				<!-- right column end -->
+			</div>
+			<!-- content end -->
+
+			<!-- footer -->
+<!-- flex: metaportal_footer.perl -->
+			<div id="mainFooter">
+				<ul class="teaser">
+					<li class="first divider">
+						<h4>
+							<a href="http://www.ihk-hessen.de/jahresthema/">IHK-Schwerpunktthema</a>
+						</h4>
+						<a href="http://www.ihk-hessen.de/jahresthema/">
+							<img src="/imperia/md/images/metaportal/footer/ihk-schwerpunktthema.gif" width="148" height="98" alt="IHK-Schwerpunktthema" />
+						</a>
+						<p>
+							<a href="http://www.ihk-hessen.de/jahresthema/">Schwerpunktthema der IHK-Organisation 2015/2016</a>
+						</p>
+						<a href="http://www.ihk-hessen.de/jahresthema/" class="info">Mehr Informationen</a>
+					</li>
+					<li class="divider">
+						<h4>
+							<a href="/newsletter/">IHK-Newsletter</a>
+						</h4>
+						<a href="/newsletter/">
+							<img src="/imperia/md/images/metaportal/footer/footer_image_ihk_newsletter_148x98px.jpg" width="148" height="98" alt="IHK-Newsletter" />
+						</a>
+						<p>
+							<a href="/newsletter/">Substanz in jeder Rubrik: <br>Der  IHK-Newsletter</a>
+						</p>
+						<a href="/newsletter/" class="info">Newsletter abonnieren</a>
+					</li>
+					<li class="divider">
+						<h4>
+							<a href="/ihk/service-einrichtungen/ihk-service-center/">IHK-Service-Center</a>
+						</h4>
+						<a href="/ihk/service-einrichtungen/ihk-service-center/">
+							<img src="/imperia/md/images/metaportal/footer/visual-footer-service-center.jpg" width="148" height="98" alt="IHK-Service-Center" />
+						</a>
+						<p>
+							<a href="/ihk/service-einrichtungen/ihk-service-center/">Beratung und Information Telefon: <strong>069 2197 1280</strong></a>
+						</p>
+						<a href="/ihk/service-einrichtungen/ihk-service-center/" class="info">Unsere Service-Produkte</a>
+					</li>
+					<li class="divider">
+						<h4>
+							<a href="/presse/ihk-wirtschaftsforum/index.html">IHK WirtschaftsForum</a>
+						</h4>
+						<a href="/presse/ihk-wirtschaftsforum/index.html">
+							<img src="/imperia/md/images/wirtschaftsforum/wifo_2016/2016-12_frontbild_footer_148x98.jpg" width="148" height="98" alt="IHK WirtschaftsForum" />
+						</a>
+						<p>
+							<a href="/presse/ihk-wirtschaftsforum/index.html">Special Dezember 2016: Logistik</a>
+						</p>
+						<a href="/presse/ihk-wirtschaftsforum/index.html" class="info">Zum Magazin</a>
+					</li>
+					<li class="">
+						<h4>
+							<a href="/anfahrt_kontakt/">Anfahrt</a>
+						</h4>
+						<a href="/anfahrt_kontakt/">
+							<img src="/imperia/md/images/metaportal/footer/visual-footer-approach.jpg" width="146" height="146" alt="Anfahrt" />
+						</a>
+					</li>
+					<li class="last textBlock">
+						<h4>
+							<a href="/anfahrt_kontakt">Kontakt</a>
+						</h4>
+<p>Börsenplatz 4<br />60313 Frankfurt am Main</p>
+<p>
+	<span>Tel</span>+49 69 2197-1280<br />
+	<span>Fax</span>+49 69 2197-1424<br />
+</p>
+<a href="/anfahrt_kontakt/kontaktformular/" class="mailLink">Ihre Nachricht an uns</a>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//ssl.siteimprove.com/js/siteanalyze_6008813.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<!-- Google Code für ein Remarketing-Tag -->
+<!-- ###############################################
+Remarketing-Tags dürfen nicht mit personenbezogenen Daten verknüpft oder auf Seiten platziert werden, die sensiblen Kategorien angehören. Weitere Informationen und Anleitungen zur Einrichtung des Tags erhalten Sie unter: http://google.com/ads/remarketingsetup
+############################################### -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 951812787;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/951812787/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script>/*Copyright 2011-2015 iPerceptions, Inc. All rights reserved. Do not distribute.iPerceptions provides this code 'as is' without warranty of any kind, either express or implied. */ window.iperceptionskey = '9be592fe-fb08-4710-be46-af449cbc514b';(function () { var a = document.createElement('script'),b = document.getElementsByTagName('body')[0]; a.type = 'text/javascript'; a.async = true;a.src = '//universal.iperceptions.com/wrapper.js';b.appendChild(a);})();</script>					</li>
+				</ul>
+				<ul class="linkList">
+					<li class="first"><a target="_blank" href="http://www.bieg-hessen.de/" title="Beratungs- und Informationszentrum Elektronischer Geschäftsverkehr"><img class="msHover" src="/img/metaportal/logo-bieg.gif" width="108" height="37" alt="Beratungs- und Informationszentrum Elektronischer Geschäftsverkehr" /></a></li>
+					<li><a target="_blank" href="http://www.ihk-hessen.de/" title="Arbeitsgemeinschaft hessischer Industrie- und Handelskammern"><img class="msHover" src="/img/metaportal/logo-arbeitsgemeinschaft-hessen.gif" width="142" height="37" alt="Arbeitsgemeinschaft hessischer IHKs" /></a></li>
+					<li><a target="_blank" href="http://www.itb-hessen.de/" title="Innovationsberatung Hessen"><img class="msHover" src="/img/metaportal/logo-innoberatung-hessen-ihk.gif" width="137" height="37" alt="Innovationsberatung Hessen" /></a></li>
+					<li><a target="_blank" href="http://www.dihk.de/" title="Deutscher Industrie- und Handelskammertag"><img class="msHover" src="/img/metaportal/logo-deutsche-ihk.gif" width="156" height="37" alt="Deutscher Industrie- und Handelskammertag" /></a></li>
+					<li><a target="_blank" href="http://www.ahk.de/" title="Deutsche Auslandshandelskammern"><img class="msHover" src="/img/metaportal/logo-deutsche-ahk.gif" width="128" height="37" alt="Deutsche Auslandshandelskammern" /></a></li>
+					<li class="last"><a target="_blank" href="http://www.hwk-rhein-main.de/" title="Handwerkskammer Rhein-Main"><img class="msHover" src="/img/metaportal/logo-handwerkskammer-rheinmain.gif" width="147" height="37" alt="Handwerkskammer Rhein-Main" /></a></li>
+				</ul>
+            </div>
+
+<!-- /flex: metaportal_footer.perl -->
+
+
+
+		</div>
+		<!-- pageWrapper end -->
+		</div>
+		<!-- page end -->
+
+		<div id="footer">
+			<p class="copyright">
+				&copy; IHK Frankfurt am Main 2016
+
+			</p>
+			<ul class="footNavigation">
+				<li class="first"><a href="http://extranet.frankfurt-main.ihk.de/">Extranet</a></li>
+				<li><a href="/ihk/rechtshinweise/">Datenschutz &amp; rechtliche Hinweise</a></li>
+				<li class="last"><a href="/ihk/impressum/">Impressum</a></li>
+			</ul>
+			<div class="meta">
+				<p class="bookmarks">
+				<!-- AddThis Button BEGIN -->
+				<a href="http://www.addthis.com/bookmark.php?v=250" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/sm-bookmark-en.gif" width="83" height=
+"16" alt="Bookmark and Share" style="border:0" /></a>
+				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=ihkbluemars"></script>
+				<script type="text/javascript">
+					var addthis_language = "de";
+					var addthis_options = 'email, favorites, delicious, misterwong, twitter, facebook, google, yahoobkm, live';
+				</script>
+				<!-- AddThis Button END -->
+				</p>
+				<p class="print">
+					<a href="javascript:window.print();" class="print"><img src="/img/metaportal/icon-print.gif" width="13" height="12" alt="Seite drucken" title="" /></a>
+				</p>
+			</div>
+		</div>
+			<!-- footer end -->
+
+
+
+	<!-- body-footer -->
+<!-- /body-footer -->
+
+	</body>
+</html>

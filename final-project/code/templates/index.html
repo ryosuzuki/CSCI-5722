@@ -3,7 +3,12 @@
 
 
 <div class="ui grid" style="margin-left: 350px">
+
   <div class="ui items">
+  {% if type == 'label' and label_name %}
+    <h1>{{ label_name }}</h1>
+  {% endif %}
+
   {% for image in images[offset:] %}
     <div class="item" style="opacity: {{ image['similarity']+0.15 if (image['similarity']) }}">
       <a href="/{{ image['id'] }}" class="image" style="width: 200px">
@@ -16,9 +21,16 @@
             <p>Similarity: <b>{{ image['similarity'] }}</b></p>
           {% elif type == 'category' %}
             <p>Distance: <b>{{ image['distance'] }}</b></p>
+          {% elif type == 'label' %}
+            <p>Probability: <b>{{ image['prob'] }}</b></p>
           {% endif %}
-          <p>Id: <b>{{ image['id'] }}</b> </p>
-          <p>Category: <a class="ui label category-{{ cluster_map[image['id']] }}" href="/categories/{{ cluster_map[image['id']] }}">Category-{{ cluster_map[image['id']] }}</a> </p>
+
+          {% if type == 'label' %}
+
+          {% else %}
+            <p>Id: <b>{{ image['id'] }}</b> </p>
+            <p>Category: <a class="ui label category-{{ cluster_map[image['id']] }}" href="/categories/{{ cluster_map[image['id']] }}">Category-{{ cluster_map[image['id']] }}</a> </p>
+          {% endif %}
         </div>
       </div>
     </div>

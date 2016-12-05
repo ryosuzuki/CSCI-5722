@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>NEW NewYorkFirst.com | Impeccable Gifts and Unique Wonders</title>
+<meta name="description" content="New York First Company - Shop Your Way Through The City." />
+<meta name="keywords" content="New York, NY, gifts, store, memorabilia, gift, item, grocery, furnitures, executive, books, bargain, shop, city stuff, birthday, wedding, anniversary" />
+<link rel="shortcut icon"  href="http://www.newyorkfirst.com/img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://www.newyorkfirst.com/jquery.ad-gallery.css" />
+<link rel="stylesheet" type="text/css" href="http://www.newyorkfirst.com/+style.site.css" />
+<script language="javascript" type="text/javascript">
+var base_url = 'http://www.newyorkfirst.com/';
+</script>
+<!--<script type="text/javascript" src="http://www.newyorkfirst.com/scripts/jquery-1.5.2.min.js"></script>-->
+<script type="text/javascript" src="http://www.newyorkfirst.com/scripts/jquery-latest.min.js"></script>
+<link rel="stylesheet" href="http://www.newyorkfirst.com/scripts/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="http://www.newyorkfirst.com/scripts/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://www.newyorkfirst.com/scripts/jquery.ad-gallery.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.newyorkfirst.com/scripts/main.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.newyorkfirst.com/scripts/swfobject.js"></script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+	$("a.prod_images").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	var slideshow = $('.ad-gallery').adGallery();
+});
+</script>
+</head> 
+<body id="index">
+<div id="container"><div id="page">
+	<!-- header -->
+	<div id="head">
+		<div id="cont_header">
+        	<a href="http://www.newyorkfirst.com/" id="link_building"></a>
+        	<h2><a href="http://www.newyorkfirst.com/" id="link_nyf_text">The New York First Company - Impeccable Gifts and Unique Wonders</a></h2>
+            <div id="nav_cont">
+                <ul id="nav">
+                    <li><a href="http://www.newyorkfirst.com/catalog/own-the-city-41/" id="nav_menu_1" title="Own The City">Own The City</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/coffee-bar-48/" title="Coffee Bar">Coffee Bar</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/moma-design-store-49/" title="MoMA Design Store">MoMA Design Store</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/subway-underground-50/" title="Subway Underground">Subway Underground</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/sex--the-city-51/" title="Sex &amp; the City">Sex &amp; the City</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/rare-book-shop-52/" title="Rare Book Shop">Rare Book Shop</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/nyc-souvenirs--collectibles-53/" title="NYC Souvenirs &amp; Collectibles">NYC Souvenirs &amp; Collectibles</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/city-sports-54/" title="City Sports">City Sports</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/bushels--baskets-56/" title="Bushels &amp; Baskets">Bushels &amp; Baskets</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/one-of-a-kind-57/" title="One-of-a-Kind">One-of-a-Kind</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/restaurant-row-42/" id="nav_menu_2" title="Restaurant Row">Restaurant Row</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/schrafft039s-59/" title="Schrafft&#039;s">Schrafft&#039;s</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/cipriani-60/" title="Cipriani">Cipriani</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/barware--party-gifts-61/" title="Barware &amp; Party Gifts">Barware &amp; Party Gifts</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/restaurant-museum-62/" title="Restaurant Museum">Restaurant Museum</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/toots-shor-63/" title="Toots Shor">Toots Shor</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/stork-club-64/" title="Stork Club">Stork Club</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/thin-man-collection-104/" title="Thin Man Collection">Thin Man Collection</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/steak-knives-103/" title="Steak Knives">Steak Knives</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/gotham-grocery-43/" id="nav_menu_3" title="Gotham Grocery">Gotham Grocery</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/confectionery-66/" title="Confectionery">Confectionery</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/coffee-bar-67/" title="Coffee Bar">Coffee Bar</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/glassware--serveware-68/" title="Glassware &amp; Serveware">Glassware &amp; Serveware</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/kitchen--cookbooks-69/" title="Kitchen &amp; Cookbooks">Kitchen &amp; Cookbooks</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/experience-gifts-44/" id="nav_menu_4" title="Experience Gift">Experience Gift</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/body--soul-70/" title="Body &amp; Soul">Body &amp; Soul</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/fantasy-71/" title="Fantasy">Fantasy</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/sport-72/" title="Sport">Sport</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/inspire-73/" title="Inspire">Inspire</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/tours-74/" title="Tours">Tours</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/home-75/" title="Home">Home</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/culinary-76/" title="Culinary">Culinary</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/animals-77/" title="Animals">Animals</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/arts--culture-78/" title="Arts &amp; Culture">Arts &amp; Culture</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/self-improvement-79/" title="Self-Improvement">Self-Improvement</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/home-and-garden-45/" id="nav_menu_5" title="Home and Garden">Home &amp;Garden</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/barrister-bookcases-80/" title="Barrister Bookcases">Barrister Bookcases</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/the-complete-office-81/" title="The Complete Office">The Complete Office</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/apartment-therapy-82/" title="Apartment Therapy">Apartment Therapy</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/lighting-center-83/" title="Lighting Center">Lighting Center</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/outdoor-store-85/" title="Outdoor Store">Outdoor Store</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/luxury-hotel-gifts-86/" title="Luxury Hotel Gifts">Luxury Hotel Gifts</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/entertainment--diversions-46/" id="nav_menu_6" title="Entertainment">Entertainment</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/scaled-models--novelties-87/" title="Scaled Models &amp; Novelties">Scaled Models &amp; Novelties</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/new-york-sports-88/" title="New York Sports">New York Sports</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/autographs--memorabilia-89/" title="Autographs &amp; Memorabilia">Autographs &amp; Memorabilia</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/barware--party-gifts-90/" title="Barware &amp; Party Gifts">Barware &amp; Party Gifts</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/cds--dvds-91/" title="CDs &amp; DVDs">CDs &amp; DVDs</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/library-store-96/" id="nav_menu_7" title="Library Store">Library Store</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/barrister-bookcases-98/" title="Barrister Bookcases">Barrister Bookcases</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/reading-room-102/" title="Reading Room">Reading Room</a></li>
+</ul>
+</li>
+                    <li><a href="http://www.newyorkfirst.com/catalog/bargain-basement-47/" id="nav_menu_8" title="Bargain Basement">Bargain Basement</a>
+                    	<ul>
+<li><a href="http://www.newyorkfirst.com/catalog/10-off-92/" title="10% off">10% off</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/20-off-93/" title="20% off">20% off</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/50-off-94/" title="50% off">50% off</a></li>
+<li><a href="http://www.newyorkfirst.com/catalog/discontinued-items-95/" title="Discontinued Items">Discontinued Items</a></li>
+</ul>
+</li>
+                </ul>
+            </div>
+        </div>
+        <div id="cont_search_bar">
+			<div id="col_01"><form action="http://www.newyorkfirst.com/search.php" method="get"><span id="cont_search_text">What can <u>WE</u> help <u>YOU</u> find?</span><input type="text" name="keyword" id="searchstr" onkeypress="if(event.keyCode == 13) this.form.submit();" /><input type="submit" name="btn_search" id="btn_search" value="SEARCH" /></form></div>
+            <div id="col_02">
+            	<span style="position:absolute; left:0; padding-left:10px;"><img src="http://www.newyorkfirst.com/images/ico_hand_pointer.gif" width="40" height="20" style="margin-right:10px; vertical-align:middle; margin-bottom:.25em;" /> <a href="http://www.newyorkfirst.com/store/index.php" id="cont_cart_text">SHOPPING CART</a></span> <span id="cont_cart_info">Items on Cart<span style="position:absolute; right:2px;">$0</span></span>
+            </div>
+        </div>
+	</div>
+	<!-- /header -->
+	<!-- body -->
+	<div id="body">
+				<div id="left">
+		
+			
+			<ul id="side_nav">
+                <li class="title">Shop by<br/>Department</li>
+                <li class="first"><a href="http://www.newyorkfirst.com/catalog/own-the-city-41/"><span class="cont_num_list">1</span> <span class="cont_link_list">OWN THE CITY
+                <span class="cont_link_descr">New York Coffee Bar<br/>Rare &amp; Antiquarian Books<br/>Collectibles &amp; Souvenirs<br/>New York City Stuff</span></span><br class="clear"/></a></li>
+                <li><a href="http://www.newyorkfirst.com/catalog/restaurant-row-42/"><span class="cont_num_list">2</span> <span class="cont_link_list">RESTAURANT ROW
+                <span class="cont_link_descr">Barware &amp; Party Gifts<br/>Steakhouse Provisions<br/>Toots Shor Store<br/>At the Stork Club</span></span><br class="clear"/></a></li>
+                <li><a href="http://www.newyorkfirst.com/catalog/gotham-grocery-43/"><span class="cont_num_list">3</span> <span class="cont_link_list">GOTHAM GROCERY
+                <span class="cont_link_descr">Glassware &amp; Serveware<br/>Kitchen &amp; Cookbooks<br/>Sweet Confectionery<br/>Gourmet Gifts-to-Go</span></span><br class="clear"/></a></li>
+                <li><a href="http://www.newyorkfirst.com/catalog/experience-gift-44/"><span class="cont_num_list">4</span> <span class="cont_link_list">EXPERIENCE GIFTS
+                <span class="cont_link_descr">Fantasy Camp<br/>Lifestyle Adventures<br/>Only in New York<br/>Experience Days</span></span><br class="clear"/></a></li>
+                <li><a href="http://www.newyorkfirst.com/catalog/home-and-garden-45/"><span class="cont_num_list">5</span> <span class="cont_link_list">HOME &amp; GARDEN
+                <span class="cont_link_descr">Style Ideas &amp; Accents<br/>The Home Office<br/>Luxury Hotel Gifts<br/>Outdoor Store</span></span><br class="clear"/></a></li>
+                <li><a href="http://www.newyorkfirst.com/catalog/entertainment--diversions-46/"><span class="cont_num_list">6</span> <span class="cont_link_list">ENTERTAINMENT
+                <span class="cont_link_descr">Scaled Models &amp; Novelties<br/>Autographs &amp; Memorabilia<br/>New York Sports<br/>Music &amp; Arts</span></span><br class="clear"/></a></li>
+                <li><a href="http://www.newyorkfirst.com/catalog/library-store-96/"><span class="cont_num_list">7</span> <span class="cont_link_list">Library Store
+                <span class="cont_link_descr">Barrister Bookcases<br/>File &amp; Storage Cabinets<br/>Office Furniture &amp; Chairs<br/>Reading Room</span></span><br class="clear"/></a></li>
+                <li class="last"><a href="http://www.newyorkfirst.com/catalog/bargain-basement-47/"><span class="cont_num_list">8</span> <span class="cont_link_list">Bargain Basement
+                <span class="cont_link_descr">Overstock &amp; Discontinued<br/>Discounts &amp; Mark-Downs</span></span><br class="clear"/></a></li>
+                <li class="nav_footer"><br class="clear" /></li>
+            </ul>
+			<div align="center" style="padding-bottom:10px; clear:both;"><a href="http://www.newyorkfirst.com/store/quote_request.php"><img src="http://www.newyorkfirst.com/images/img_int_customer.gif" width="165" height="34" border="0" /></a></div>
+			            <!--
+            <dl id="cont_email_list">
+                <dt>Join Our Email List</dt>
+                <dd><form action="mailing_list.php" method="post">
+                <input type="text" name="email" id="email" onkeypress="if(event.keyCode == 13) this.form.submit();" />
+                <input type="submit" name="btn_subscribe" id="btn_subscribe" value="Go!" />
+                <input type="hidden" name="mailing_list_page" value="1" />
+                </form></dd>
+            </dl>
+            -->
+                    
+		
+		</div>
+		
+<!-- content -->
+<div id="content">
+    <div id="cont_hp_products">
+        				<div class="hp_content_cols right">
+            	<a href="http://www.newyorkfirst.com/gifts/original-ny-coffee-cups-3/" class="image"><img src="http://www.newyorkfirst.com/productimages/9515009a7545d9917c5bc8dbaccad5b1.jpg" width="180" title="The Coffee Cup That Says &amp;quot;New York&amp;quot;" alt="The Coffee Cup That Says &amp;quot;New York&amp;quot;" /></a>
+                <h2>The Coffee Cup That Says &quot;New York&quot;</h2>
+                <p class="this_col_content">Every city needs a symbol.  In its coffee cup, New York has something that&#039;s both genuinely unique and almost timeless.  For over half a century, New York has made the blue-and-white, Greek-diner-style cup its own, and its sheer ubiquity has propelled the cup into countless films and television shows, with propmasters seeking a visual shorthand for hard-boiled detective, hard-working hack, or Gothamite-on-the-go.  For a connection to a New York that once was and, after a damn good cup of coffee, still is.  <a href="http://www.newyorkfirst.com/gifts/original-ny-coffee-cups-3/" class="more_link">More &raquo;</a></p>
+					<br class="clear" />
+				</div>
+            					<div class="hp_content_cols left">
+            	<a href="http://www.newyorkfirst.com/gifts/washington-square-arch-bookend-set-502/" class="image"><img src="http://www.newyorkfirst.com/productimages/b552cfeede0b2c7af779ae011ce6d413.jpg" width="180" title="Greenwich Village Landmark, by George" alt="Greenwich Village Landmark, by George" /></a>
+                <h2>Greenwich Village Landmark, by George</h2>
+                <p class="this_col_content">Inspired by Roman triumphal arches, the Washington Square Arch was erected in 1889 at the northern gateway to Washington Square Park, to celebrate the centennial of George Washington&#039;s inauguration.  Modeled on the beloved Greenwich Village neighborhood landmark, offered are two tall bookends, scaled replicas, each meticulously hand-cast from 6 1/2 pounds of crushed stone resin.  Great for organizing and supporting large books, notebooks, binders, and magazines. <a href="http://www.newyorkfirst.com/gifts/washington-square-arch-bookend-set-502/" class="more_link">More &raquo;</a></p>
+					<br class="clear" />
+				</div>
+            					<div class="hp_content_cols right">
+            	<a href="http://www.newyorkfirst.com/gifts/old-knickerbocker-bar-top-hat-cocktail-glass-499/" class="image"><img src="http://www.newyorkfirst.com/productimages/cf83f2fb96e015ff432def658a7b5845.jpg" width="180" title="Hats Off To Mr. Astor!" alt="Hats Off To Mr. Astor!" /></a>
+                <h2>Hats Off To Mr. Astor!</h2>
+                <p class="this_col_content">Now available for the first time in 100 years!  The Old Knickerbocker Bar Cocktail Glass has been faithfully reproduced from the original Morgantown Glassworks pattern.  Each glass is crafted with an iconic stem in the shape of a dapper gentleman with a top hat, an homage to John Jacob Astor’s New York and a symbol of American capitalism.  The Gift Box Set of 2 &quot;Top Hat&quot; Cocktail Glasses (including a history of the era) has a certain sensibility about it, calling to mind the sophistication of the Old Knickerbocker Bar. <a href="http://www.newyorkfirst.com/gifts/old-knickerbocker-bar-top-hat-cocktail-glass-499/" class="more_link">More &raquo;</a></p>
+					<br class="clear" />
+				</div>
+            					<div class="hp_content_cols left">
+            	<a href="http://www.newyorkfirst.com/catalog/barrister-bookcases-98/" class="image"><img src="http://www.newyorkfirst.com/productimages/ff0adec40a0b3ac57c5500524b3812b0.jpg" width="180" title="Intelligent Bookcases Since 1907" alt="Intelligent Bookcases Since 1907" /></a>
+                <h2>Intelligent Bookcases Since 1907</h2>
+                <p class="this_col_content">That was the year F. E. Hale began the manufacture of handsome, clever bookcases, in particular for the offices of eminent barristers.  Mr. Hale&#039;s original glass-front sectional Barrister Bookcases are still hand-crafted in Upstate New York, providing distinctive display for treasured books and collectibles in the home or business library. The stackable cases can be ordered with standard or tall shelf units, and in a variety of woods and finishes.  We have a book that tells more of the story.  Ask for your FREE copy. <a href="http://www.newyorkfirst.com/catalog/barrister-bookcases-98/" class="more_link">More &raquo;</a></p>
+					<br class="clear" />
+				</div>
+            		</div>
+	    
+		<br class="clear" />
+</div><!-- content-->
+
+	<br class="clear" />
+	</div>
+	<!-- /body -->
+	</div>
+    	
+	<div id="index_foot">
+	<ul>
+		<li><a href="http://www.newyorkfirst.com/customer_service.php">Customer Service</a></li>
+		<li><a href="http://www.newyorkfirst.com/about.php">About our Store</a></li>
+		<li><a href="http://www.newyorkfirst.com/company.php">Our Company</a></li>
+		<li class="last">1-800-581-7599</li>
+	</ul>
+	</div>
+	
+	</div> <!-- /container /page -->
+
+
+</body>
+</html>

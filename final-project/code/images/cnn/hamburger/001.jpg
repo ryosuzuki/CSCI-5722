@@ -1,0 +1,21 @@
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMLl0RJYcDS0N2xIgi01rOAcEtvCUTUq+IuNz5PA8eXYsfPLRkgnNehO+NbOZAlLoQnSpB5rXuRxRCTF+T1iU9sCAwEAAQ==_jNdW6nRCw8XS0KTesiTJ6q/5I9D4V3oxUbGBT5IlC/Olv5S3+8xizEks+T6rc6NVIhSA6oL/PYAiBdnMesMUVQ==" xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+	<title>paraorkut.com</title>
+	<meta name="keywords" value="paraorkut.com"/>
+	<meta name="description" content="">
+	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	    <script type="text/javascript">
+		$(document).ready(function () {
+		    $('#main').attr('src', "/cf.php");
+		    $('#main').css('visibility', 'visible');
+		});
+
+		/* if (parent.frames.length > 0)
+		    top.location.replace(document.location); */
+	    </script>
+    </head>
+    <frameset rows="100%,*" frameborder="no" border="0" framespacing="0" id="frameset">
+	<frame id="main" src="/cf.php"></frame>
+	<frame id="sub1" src="bh.php?dm=paraorkut.com&kw=paraorkut&tt=f5145aa5508e94c067508ea00050a240&ty=false" style="visibility: hidden;"></frame>
+    </frameset>
+</html>

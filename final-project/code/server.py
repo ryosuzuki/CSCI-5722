@@ -10,6 +10,9 @@ import cnn
 app = Flask(__name__, static_url_path='')
 bovw_data = bovw.load_data('models/bovw/data.pickle')
 cnn_model = cnn.load_model()
+label_map = cnn.load_data('models/vgg16/label_map.pickle')
+name_map = cnn.load_data('models/vgg16/name_map.pickle')
+# image_map = cnn.load_data('models/vgg16/image_map.pickle')
 
 @app.route('/')
 def index():
@@ -28,6 +31,15 @@ def show_cluster(cluster_id):
 @app.route('/cnn')
 def show_cnn():
   return render_template('cnn.html')
+
+@app.route('/cnn/labels')
+def index_label():
+  return render_template('index.html', type='label', offset=0, images=[], name_map=name_map)
+
+@app.route('/cnn/labels/<label_id>')
+def show_label(label_id):
+  return render_template('index.html', type='label', offset=0, images=label_map[label_id], name_map=name_map, label_id=label_id, label_name=label_map[label_id][0]['name'])
+
 
 @app.route('/upload', methods=['POST'])
 def upload():

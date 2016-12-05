@@ -1,0 +1,381 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <meta name="format-detection" content="telephone=no">
+    <title>eNet硅谷动力 - 回到起点，承兑初心</title>
+    <meta name="description" content="eNet硅谷动力网站是中国权威的IT产品信息与商业流通门户，涵盖电脑,笔记本,手机,通信产品,数码产品,家电产品等全线IT领域，拥有IT资讯,科技新闻,IT产品库,IT商城,硬件,DIY,手机,数码,MP3,MP4,游戏,评测,学院,下载,服务器,存储,安全等30余个主力频道，每天发布大量IT产品信息及文章专题，是IT行业最重要的网上信息获取和沟通平台。">
+    <meta name="keywords" content="硅谷动力,eNet,硅谷,IT新闻,科技资讯,互联网新闻,通信新闻,评论,信息,解决方案,手机,笔记本,整机,PC,台式机,数码相机,摄像机,MP3,MP4,MP5,播放器,硬件,DIY,外设,CPU,内存,硬盘,主板,显卡,显示器,掌上电脑,PDA,数码,DC,DV,电脑,外设,电视,家电,液晶电
+    视,空调,冰箱,洗衣机,小家电,服务器,存储,网络设备,打印机,商城,下载,游戏,学院,软件,教程,经销商,新品,评测,行情,报价,降价,导购,电脑市场,卖场,渠道商情,办公,OA,CIO,CTO,北京,上海,广州,深圳,中关村,培训,认证,论坛,博客,摄影,样张">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <link href="static/css/public.css" type="text/css" rel="stylesheet">
+    <link href="static/css/model.css" type="text/css" rel="stylesheet">
+    <link href="static/css/slide.css" rel="stylesheet">
+    <script src="static/js/jquery.min.js" type="text/javascript"></script>
+
+</head>
+<!--[if IE 8]>
+<style>
+*{-webkit-box-sizing: content-box; -moz-box-sizing: content-box; -ms-box-sizing: content-box; -o-box-sizing: content-box; box-sizing: content-box; }
+.nav-li-nav{max-width: 195px; padding: 5px 15px 0; }
+.nav-li-nav3{max-width: 130px; }
+</style>
+<![endif]-->
+
+<body>
+    <div class="header">
+            <script src='http://images.enet.com.cn/js/ad.js'></script>
+<!-- top 广告  -->
+<!-- <ul class="advert clearfix">
+    <li class="first"><a href="http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-CNPublicStore-Site/zh_CN/-/CNY/ViewStandardCatalog-Browse?CatalogCategoryID=cU8Q2MZOFnUAAAFCWzxQq6Mz&jumpid=ps_ft4h3m6wy8" target="_blank" title="惠普游戏笔记本 "><img src="/static/images/advert1.jpg" width="150" height="28"/></a></li>
+    <li><a href="http://www.ibm.com/cloud-computing/cn/zh/index.html" target="_blank" title="私有云解决方案"><img src="/static/images/advert2.jpg" width="150" height="28"/></a></li>
+    <li><a href="http://www.enet.com.cn/enews/zhuanti/2015/ichina2015/" target="_blank" title="2015（第十三届）中国互联网经济论坛"><img src="/static/images/advert3.jpg" width="150" height="28"/></a></li>
+    <li><a href="http://bj.arm.tedu.cn/zt/qrs/" target="_blank" title="嵌入式培训先就业后付款"><img src="/static/images/advert4.jpg" width="150" height="28"/></a></li>
+    <li><a href="http://www.samsung.com/cn/consumer/mobile-phones/smart-phone/" target="_blank" title="Galaxy S6/S6 edge/Note/A7等"><img src="/static/images/advert5.jpg" width="150" height="28"/></a></li>
+    <li><a href="http://www.cisco.com/web/CN/offers/iot/manufacturing/index.html" target="_blank" title="思科互联网+解决方案"><img src="/static/images/advert6.jpg" width="150" height="28"/></a></li>
+</ul> -->
+<div class="advert clearfix">
+    <div class="ad-left" id='646'>
+<script>
+enetad.load("646");
+</script>
+    </div>
+    <!-- <div class="ad-right" id='641'>
+        <a target="_blank" href="http://www.enet.com.cn/enews/zhuanti/2015/ichina2015live/"><img src="/static/images/ad3.jpg"></a>
+        <script type="text/javascript">
+            enetad.load("641");
+        </script>
+    </div> -->
+</div>
+<!-- <div class="advert clearfix"> -->
+<!--     <div class="ad-left ad-all" id="644">
+            <script type="text/javascript">
+            enetad.load("644");
+        </script> -->
+<!--
+        <script type="text/javascript">
+            /*640*60 创建于 2015-08-31*/
+            var cpro_id = "u2288885";
+        </script>
+        <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+-->
+<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+<!-- topleft 640x60 -->
+<!-- <ins class="adsbygoogle"
+     style="display:inline-block;width:640px;height:60px"
+     data-ad-client="ca-pub-7571901627517328"
+     data-ad-slot="1859818693"></ins> -->
+<!-- <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> -->
+    <!-- </div> -->
+        <!-- <a target="_blank" href="http://www.enet.com.cn/enews/zhuanti/2015/ichina2015live/"><img src="/static/images/ad3.jpg"></a> -->
+    <!-- <div class="ad-right" id='641'>
+        <script type="text/javascript">
+            enetad.load("641");
+        </script>
+    </div> -->
+<!-- </div> -->
+<!-- top end -->
+
+<!-- cat_top -->
+
+<!-- hea-top -->
+<!--[if IE 8]>
+<style>
+*{-webkit-box-sizing: content-box; -moz-box-sizing: content-box; -ms-box-sizing: content-box; -o-box-sizing: content-box; box-sizing: content-box; }
+.nav-li-nav{max-width: 195px; padding: 5px 15px 0; }
+.nav-li-nav3{max-width: 130px; }
+</style>
+<![endif]-->
+<style type="text/css">
+    .hea-nav-con{width: 572px; margin: 0 50px;}
+    .nav-con-ul .nav-down-wid{ border-left: 1px solid #1e76c1; border-right: 1px solid #1e76c1; /*border-left: 1px solid rgba(30,118,193,0.8); border-right: 1px solid rgba(30,118,193,0.8);*/}
+    .nav-down-wid.net{border: none;}
+    ul.nav-con-ul li a{width: 100% !important; padding: 0 !important;}
+    ul.nav-con-ul .nav-li-sub a{text-align: center; padding: 0 5px !important;}
+    .nav-down-wid{width: 29%;}
+    .nav-li-xiala{min-width: 375px;}
+    .nav-li-xiala1{min-width: 280px;}
+    .nav-li-xiala3{min-width: 360px;}
+</style>
+<div class="hea-top">
+    <div class="hea-nav clearfix">
+        <div class="hea-logo">
+            <a href="http://www.enet.com.cn/"><img src="/static/images/logo.png" width="167" height="30" /></a>
+        </div>
+        <div class="hea-nav-con index-nav">
+            <ul class="nav-con-ul clearfix">
+                <li class="news nav-down-wid">
+                    <a href="/tag/news" target="_blank" class="nav-down">eNews</a>
+                    <div class="nav-li-sub">
+                        <div class="nav-li-xiala nav-li-xiala1">
+                            <ul>
+                                <li><a href="/enews/zhuanti/figure/">人物汇</a></li>
+                                <li><a href="/tag/ceotalk">CEO访谈</a></li>
+                                <li><a href="/special/">专题</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li user-data="" class="nav-down-wid net">
+                    <a href="/category/internet" target="_blank" class="nav-down">互联网 </a>
+                    <div class="nav-li-sub">
+                        <!-- <span class="nav-line"></span>
+                        <div class="nav-li-nav">
+                            <ul>
+                                <li><a href="/tag/computer">消费数码</a></li>
+                                <li><a href="/tag/mycloud">云计算</a></li>
+                                <li><a href="/tag/if">金融科技</a></li>
+                                <li><a href="/tag/dp">数字营销</a></li>
+                                <li><a href="/tag/bdata">大数据</a></li>
+                                <li><a href="/tag/xnxs">VR/AR</a></li>
+                            </ul>
+                        </div> -->
+                        <div class="nav-li-xiala nav-li-xiala2">
+                            <ul>
+                                <li><a href="/tag/computer">消费数码</a></li>
+                                <li><a href="/tag/mycloud">云计算</a></li>
+                                <li><a href="/tag/if">金融科技</a></li>
+                                <li><a href="/tag/dp">数字营销</a></li>
+                                <li><a href="/tag/bdata">大数据</a></li>
+                                <li><a href="/tag/xnxs">VR/AR</a></li>
+                                <li><a href="/tag/wrj">无人机</a></li>
+                                <li><a href="/tag/ai">人工智能</a></li>
+                                <li><a href="/tag/doffice">数字办公</a></li>
+                                <li><a href="/tag/nb">电商/O2O</a></li>
+                                <li><a href="/tag/interact">社交/传媒</a></li>
+                                <li><a href="/tag/newsoft">商用软件</a></li>
+                                <li><a href="/tag/slis">电子政务/智慧城市</a></li>
+                                <li><a href="/tag/robot">机器人</a></li>
+                                <li><a href="/tag/musicandfilm">音乐/视频</a></li>
+                                <li><a href="/tag/ventrecapital">投资与创业</a></li>
+                                <li><a href="/tag/game">游戏</a></li>
+                                <li><a href="/tag/wlw">物联网</a></li>
+                                <li><a href="/tag/fnc">IT基础设施</a></li>
+                                <li><a href="/tag/appfocus">APP</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li user-data="" class="nav-down-wid">
+                    <a href="/category/internetplus" target="_blank" class="nav-down">互联网 <span>+</span></a>
+                    <!--互联网思维-->
+                    <div class="nav-li-sub">
+                        <!--<span class="nav-line"></span>
+                         <div class="nav-li-nav nav-li-nav3">
+                            <ul>
+                                <li><a href="/tag/ebank">银行</a></li>
+                                <li><a href="/tag/elearn">教育</a></li>
+                                <li><a href="/tag/travelagency">旅游</a></li>
+                                <li><a href="/tag/sportinggoods">体育</a></li>
+                                <li><a href="/tag/servicezone">家居服务业</a></li>
+                            </ul>
+                        </div> -->
+                        <div class="nav-li-xiala nav-li-xiala3">
+                            <ul>
+                                <li><a href="/tag/ebank">银行</a></li>
+                                <li><a href="/tag/elearn">教育</a></li>
+                                <li><a href="/tag/travelagency">旅游</a></li>
+                                <li><a href="/tag/sportinggoods">体育</a></li>
+                                <li><a href="/tag/servicezone">家居服务业</a></li>
+                                <li><a href="/tag/clothing">服装</a></li>
+                                <li><a href="/tag/hotels">酒店与餐饮</a></li>
+                                <li><a href="/tag/basicmanufacturing">制造业</a></li>
+                                <li><a href="/tag/environmental">能源与环保</a></li>
+                                <li><a href="/tag/estate">房地产服务</a></li>
+                                <li><a href="/tag/highdrink">食品业</a></li>
+                                <li><a href="/tag/idesign">咨询服务业</a></li>
+                                <li><a href="/tag/pharmaceutical">医疗/健康</a></li>
+                                <li><a href="/tag/luxury">奢侈品</a></li>
+                                <li><a href="/tag/culturalandartistic">艺术</a></li>
+                                <li><a href="/tag/insurance">非银行金融机构</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--互联网思维 end-->
+                </li>
+            </ul>
+        </div>
+        <div class="hea-old-enet">
+            <span id="old-enet-a"><img src="/static/images/old-enet.png" width="25" height="30" /></span>
+            <div class="old-enet-con"><a href="http://games.enet.com.cn/" target="_blank">游戏先锋</a><a href="/itbrand/" target="_blank">ITBrand</a><a href="http://product.enet.com.cn/" target="_blank">产品库</a><a href="/elady/" target="_blank">IT女性</a><a href="/eschool/" target="_blank">学院</a><a href="http://bbs.enet.com.cn/" target="_blank">论坛</a><a href="http://download.enet.com.cn/" target="_blank">下载</a><a href="/pic/" target="_blank">图片</a><a href="/pic/" target="_blank">... ...</a><a class="old-enet-btn" href="http://www.enet.com.cn/index.shtml" target="_blank">旧版首页</a></div>
+        </div>
+        <div class="hea-search">
+            <input value="" type="text" />
+            <a class="search" href="#"></a>
+        </div>
+    </div>
+</div>
+<!-- hea-top end-->
+
+<script type="text/javascript">
+//旧版 ENET 下拉菜单
+$('.hea-old-enet').hover(function(){
+    $('.old-enet-con').stop().fadeToggle('4000')
+})
+//主导航下拉菜单
+// $(".nav-con-ul li").hover(function(){
+//         $(this).addClass("active");
+//         var myShowLi = $(this).attr("user-data");
+//         $(myShowLi).stop().fadeIn();
+//     },function(){
+//         $(this).removeClass("active");
+//         var myShowLi = $(this).attr("user-data");
+//         $(myShowLi).stop().hide();
+//     })
+
+//主导航下拉菜单 20160811
+$(".nav-down").mouseover(function(){
+    $(this).closest("li").addClass('active').find(".nav-li-xiala").stop().slideDown(200);
+});
+$(".nav-down-wid").mouseleave(function(){
+    $(this).closest("li").removeClass('active').find('.nav-li-xiala').stop().slideUp(200);
+});
+</script>
+
+    </div>
+    <div class="shadow">
+        <div class="sha-con">
+            <a target="_blank" href="/article/2016/1205/A20161205023521.html">云时代IDC的生存路百家谈</a>
+
+        </div>
+    </div>
+    <div class="content">
+        <div class="con-top" style="overflow:hidden;">
+            <div class="slider">
+                <div class="bd">
+                    <ul>
+                        <li>
+                            <a target="_blank" title="2016年中国互联网经济论坛" href="http://www.enet.com.cn/enews/zhuanti/2016/ichina2016/">
+                                <img src="/static/images/silder-55.jpg" alt="2016年中国互联网经济论坛" /></a>
+                        </li>
+                        <li>
+                            <a target="_blank" title="2016互联网金融企业分类排行榜" href="http://www.enet.com.cn/enews/zhuanti/2016/internetfinance/">
+                                <img src="/static/images/silder-58.jpg" alt="2016互联网金融企业分类排行榜" /></a>
+                        </li>
+                        <li>
+                            <a target="_blank" title="2016最值得关注的企业服务推动者" href="http://www.enet.com.cn/enews/zhuanti/2016/qyfw/">
+                                <img src="/static/images/silder-57.jpg" alt="2016最值得关注的企业服务推动者" /></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="hd">
+                    <ul>
+                    </ul>
+                </div>
+                <div class="pnBtn prev"><span class="blackBg"></span>
+                    <a class="arrows" href="javascript:void(0)"></a>
+                </div>
+                <div class="pnBtn next"><span class="blackBg"></span>
+                    <a class="arrows" href="javascript:void(0)"></a>
+                </div>
+            </div>
+        </div>
+        <div class="con-bottom">
+            <div class="con-bot-next clearfix">
+                <div class="next-sub subfirst">
+                    <a class="subimg" target="_blank" title="只要心灵是充实的，生活就是精彩的" href="http://www.enet.com.cn/article/2016/1107/A20161107022204.html"><img src="/static/images/img79.jpg" width="229" height="150" alt="只要心灵是充实的，生活就是精彩的" /></a>
+                    <ul>
+                        <li><a href="http://www.enet.com.cn/article/2016/1107/A20161107022200.html" title="后悔药真的不存在吗" target="_blank">后悔药真的不存在吗</a></li>
+                        <li><a href="http://www.enet.com.cn/article/2016/1107/A20161107022202.html" title="《传习录》笃定我心 勇往直前" target="_blank">《传习录》笃定我心 勇往直前</a></li>
+                        <li><a href="http://www.enet.com.cn/article/2016/1107/A20161107022203.html" title="知识还是精华好" target="_blank">知识还是精华好</a></li>
+                    </ul>
+                </div>
+                <div class="next-sub">
+                    <a class="subimg" target="_blank" title="企业该如何从优秀走向卓越" href="http://www.enet.com.cn/article/2016/1108/A20161108022301.html"><img src="/static/images/img80.jpg" width="229" height="150" alt="企业该如何从优秀走向卓越" /></a>
+                    <ul>
+                       <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022297.html" title="从优秀到卓越隔着1000米的距离" target="_blank">从优秀到卓越隔着1000米的距离</a></li>
+                       <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022298.html" title="好的领导者大都相同，差的管理者各有各的不足" target="_blank">好的领导者大都相同，差的管理者各有各的不足</a></li>
+                       <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022299.html" title="艰难、但不是不可能的跨越" target="_blank">艰难、但不是不可能的跨越</a></li>
+                    </ul>
+                </div>
+                <div class="next-sub">
+                    <a class="subimg" target="_blank" title='试图勾勒鲍勃迪伦' href="http://www.enet.com.cn/article/2016/1108/A20161108022306.html"><img src="/static/images/img81.jpg" width="229" height="150" alt='试图勾勒鲍勃迪伦' /></a>
+                    <ul>
+                       <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022302.html" title="企业如人，唯文化以驱动" target="_blank">企业如人，唯文化以驱动</a></li>
+                       <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022303.html" title="谦逊+意志=第5级经理人" target="_blank">谦逊+意志=第5级经理人</a></li>
+                       <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022304.html" title="谦逊不只是一种品德，更是一种智慧" target="_blank">谦逊不只是一种品德，更是一种智慧</a></li>
+                    </ul>
+                </div>
+                <div class="next-sub">
+                    <a class="subimg" target="_blank" title='“领先半步”是大智慧' href="http://www.enet.com.cn/article/2016/1107/A20161107022215.html"><img src="/static/images/img82.jpg" width="229" height="150" alt='“领先半步”是大智慧' /></a>
+                    <!-- <div id="636"><script>enetad.load('636')</script></div> -->
+                    <ul>
+                        <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022307.html" title="用严谨、客观的态度写书" target="_blank">用严谨、客观的态度写书</a></li>
+                        <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022309.html" title="卓越的试金石" target="_blank">卓越的试金石</a></li>
+                        <li><a href="http://www.enet.com.cn/article/2016/1108/A20161108022311.html" title="刺猬更容易成就卓越" target="_blank">刺猬更容易成就卓越</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer container-fluid">
+	<div class="foo-nav">
+	    <ul class="clearfix">
+	        <li><a href="/about/culture/culture.html">企业文化</a>|</li>
+	        <li><a href="/about/service/service.html">客户服务</a>|</li>
+	        <li><a href="/about/joinus/joinus.html">招聘信息</a>|</li>
+	        <li><a href="/about/manual/manual.html">员工手册</a>|</li>
+	        <li><a href="/tag/enc">ENC</a>|</li>
+	        <li><a href="/tag/encplus">ENC+</a></li>
+	    </ul>
+	    <p class="foo-nav-p">网站合作、内容监督、商务咨询、投诉建议：010-65245588</p>
+	</div>
+	<div class="foo-con">
+		<p class="foo-con-p">Copyright &#169; 2000--<script language="JavaScript" type="text/JavaScript">
+    var year="";
+    mydate=new Date();
+    myyear= mydate.getYear();
+    year=(myyear > 200) ? myyear : 1900 + myyear;
+    document.write(year);
+    </script> 硅谷动力公司版权所有 京ICP证000088号 京公网安备11010502026777号</p>
+	</div>
+</div>
+<script language="JavaScript" type="text/javascript" src="http://pv.enet.com.cn/counter.php"></script>
+<script language="JavaScript" type="text/javascript" src="http://frame.enet.com.cn/a.php"></script>
+    <script src="static/js/slide.js"></script>
+    <script>
+    jQuery(".slider .bd li").first().before(jQuery(".slider .bd li").last());
+    /* 导航标签切换 */
+    // $(".slider").focusin(function() {
+    //   $(this).find(".arrows").css('display','block');
+    // })
+    // jQuery(".slider").mousemove(function(e){
+    //   jQuery(this).find(".arrows,.blackBg").stop(true, true).fadeIn(300);
+    // });
+    // jQuery(".slider").hover(function() {
+    //         jQuery(this).find(".arrows,.blackBg").stop(true, true).fadeIn(300);
+    //     },
+    //     function() {
+    //         jQuery(this).find(".arrows,.blackBg").fadeOut(300);
+    //     });
+
+    jQuery(".slider").mousemove(function(e){
+      jQuery(this).find(".arrows").stop(true, true).fadeIn(300);
+    });
+    jQuery(".slider").hover(function() {
+            jQuery(this).find(".arrows").stop(true, true).fadeIn(300);
+        },
+        function() {
+            jQuery(this).find(".arrows").fadeOut(300);
+        });
+    /* 轮播图 */
+    jQuery(".slider").slide({
+        titCell: ".hd ul",
+        mainCell: ".bd ul",
+        autoPage: true,
+        effect: "leftLoop",
+        autoPlay: true,
+        vis: 3,
+        trigger: "mouseover",
+        pnLoop:true,
+    });
+
+    </script>
+</body>
+
+</html>

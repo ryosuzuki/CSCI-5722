@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="sk" class="no-js">
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/apple-touch-icon-180x180.png">
+
+<link rel="icon" type="image/png" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/android-chrome-192x192.png" sizes="192x192">
+
+<meta name="msapplication-square70x70logo" content="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/smalltile.png" />
+<meta name="msapplication-square150x150logo" content="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/mediumtile.png" />
+<meta name="msapplication-square310x310logo" content="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/favicons/largetile.png" />
+
+	
+<!-- Push notifications for this website enabled by Roost. Support for Chrome, Safari, and Firefox. (v 2.3.9) - https://goroost.com/ -->
+		<script type="text/javascript">
+		var ajaxurl = 'https://www.macblog.sk/wp/wp-admin/admin-ajax.php';
+		</script>
+		
+<!-- This site is optimized with the Yoast SEO plugin v3.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Stránka nebola nájdená &ndash; MacBlog.sk</title>
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="sk_SK" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Stránka nebola nájdená &ndash; MacBlog.sk" />
+<meta property="og:site_name" content="MacBlog.sk" />
+<meta property="og:image" content="https://www.macblog.sk/wp/wp-content/uploads/2016/09/MacBlog-logo-okraj-stvorec-sede.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Stránka nebola nájdená &ndash; MacBlog.sk" />
+<meta name="twitter:site" content="@macblog" />
+<meta name="twitter:image" content="https://www.macblog.sk/wp/wp-content/uploads/2016/09/MacBlog-logo-okraj-stvorec-sede.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.macblog.sk\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='avatar-manager-css'  href='http://www.macblog.sk/wp/wp-content/plugins/avatar-manager/assets/css/avatar-manager.min.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://www.macblog.sk/wp/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.11-6121' type='text/css' media='screen' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://www.macblog.sk/wp/wp-content/plugins/cookie-notice/css/front.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fep-style-css'  href='http://www.macblog.sk/wp/wp-content/plugins/front-end-pm/style/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.macblog.sk/wp/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.1' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.macblog.sk/wp/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='wp-ulike-css'  href='http://www.macblog.sk/wp/wp-content/plugins/wp-ulike/assets/css/wp-ulike.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-css'  href='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/css/vendor/lightbox.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mbsapphire-css'  href='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/css/main.css?ver=1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.macblog.sk/wp/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='http://www.macblog.sk/wp/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='essb-social-followers-counter-css'  href='http://www.macblog.sk/wp/wp-content/plugins/easy-social-share-buttons3/lib/modules/social-followers-counter/assets/css/essb-followers-counter.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='awpcp-frontend-style-css'  href='http://www.macblog.sk/wp/wp-content/plugins/another-wordpress-classifieds-plugin/resources/css/awpcpstyle.css?ver=3.7.1' type='text/css' media='all' />
+<!--[if lte IE 6]>
+<link rel='stylesheet' id='awpcp-frontend-style-ie-6-css'  href='http://www.macblog.sk/wp/wp-content/plugins/another-wordpress-classifieds-plugin/resources/css/awpcpstyle-ie-6.css?ver=3.7.1' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='awpcp-frontend-style-lte-ie-7-css'  href='http://www.macblog.sk/wp/wp-content/plugins/another-wordpress-classifieds-plugin/resources/css/awpcpstyle-lte-ie-7.css?ver=3.7.1' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ulike_obj = {"ajaxurl":"https:\/\/www.macblog.sk\/wp\/wp-admin\/admin-ajax.php","button_text_u":"Unlike","button_text":"Like","button_type":"image"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/wp-ulike/assets/js/wp-ulike-scripts.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/roost-for-bloggers/layout/js/roostbbp.js?ver=2.3.9'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/avatar-manager/assets/js/avatar-manager.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/js/vendor/svgeezy.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/js/vendor/modernizr.custom.10683.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='https://www.macblog.sk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.macblog.sk/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.macblog.sk/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+
+<!-- This site is using AdRotate v4.1.5 Professional to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-4 { min-width:0px; max-width:375px; }
+	.b-4 { margin:0px 0px 0px 0px; }
+	.g-5 { margin:0px 0px 8px 0px; }
+	.g-6 { margin:0px 0px 8px 0px; }
+	.g-7 {  margin: 0 auto; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/www.macblog.sk\/wp\/wp-admin\/admin-ajax.php","essb3_nonce":"58aca4f2cf","essb3_plugin_url":"http:\/\/www.macblog.sk\/wp\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"http:\/\/www.macblog.sk\/wp\/","ajax_type":"wp","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"twitter_counter":"self","post_id":false};</script>
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+
+<!-- END recaptcha -->
+
+	<!-- AdSense -->
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: "ca-pub-5042417982620856",
+			enable_page_level_ads: true
+		});
+	</script>
+	<!-- Hotjar Tracking Code for www.macblog.sk -->
+	<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:277633,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+			google_ad_client: "ca-pub-5042417982620856",
+			enable_page_level_ads: true
+		});
+	</script>
+</head>
+<body class="error404">
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=1381834348790651";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="ad-branding-page">
+	<!-- Either there are no banners, they are disabled or none qualified for this location! --></div>
+
+	<div id="macblog-body">
+
+		<nav class="navbar navbar-default">
+	<div class="container">
+
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mb-navbar" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="https://www.macblog.sk">
+				<img src="http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/img/logo/macblog-logo.svg" alt="MacBlog logo" width="120" height="36">
+			</a>
+
+		</div>
+
+		<div class="collapse navbar-collapse" id="mb-navbar">
+
+			<ul id="menu-primarne" class="nav navbar-nav"><li id="menu-item-480083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-480083"><a href="#">Témy</a>
+<ul class="sub-menu">
+	<li id="menu-item-480084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480084"><a href="https://www.macblog.sk/tag/iphone">iPhone</a></li>
+	<li id="menu-item-480085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480085"><a href="https://www.macblog.sk/tag/ipad">iPad</a></li>
+	<li id="menu-item-480086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480086"><a href="https://www.macblog.sk/tag/mac">Mac</a></li>
+	<li id="menu-item-480087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480087"><a href="https://www.macblog.sk/tag/apple-watch">Apple Watch</a></li>
+	<li id="menu-item-486320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-486320"><a href="https://www.macblog.sk/tag/ios-10">iOS10</a></li>
+	<li id="menu-item-485007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-485007"><a href="https://www.macblog.sk/tag/iphone-7">iPhone&nbsp;7</a></li>
+	<li id="menu-item-487388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487388"><a href="https://www.macblog.sk/tag/macOS-Sierra">macOS Sierra</a></li>
+</ul>
+</li>
+<li id="menu-item-490327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-490327"><a href="https://www.macblog.sk/tag/macbook-pro/">MacBook Pro</a></li>
+<li id="menu-item-483240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-483240"><a href="https://www.macblog.sk/tag/aplikacie">Aplikácie</a></li>
+<li id="menu-item-480088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480088"><a href="https://www.macblog.sk/tag/tipy-a-triky">Tipy a&nbsp;triky</a></li>
+<li id="menu-item-480089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480089"><a href="https://www.macblog.sk/tag/recenzie">Recenzie</a></li>
+<li id="menu-item-480081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480081"><a href="https://www.macblog.sk/forum/">Fórum</a></li>
+<li id="menu-item-490611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490611"><a href="https://www.macblog.sk/bazar/">Nový BAZÁR</a></li>
+</ul>
+			<form class="navbar-form navbar-right" role="search" method="get" action="https://www.macblog.sk/">
+				<div class="form-group">
+					<input type="text" class="form-control" name="s">
+				</div>
+				<button type="submit" class="btn btn-default btn-search">
+					&nbsp;<span class="text-hide">Hľadať</span>
+				</button>
+			</form>
+			
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>
+		
+		<div id="main-wrapper" class="container"><div class="row">
+			
+			<div class="primary-content main-col">
+
+	<h1>Error 404</h1>
+	<p>Stránka sa nenašla</p>
+
+				</div><!-- end .primary-content -->
+
+			<div class="tertiary-content site-ad main-col">
+	<div id="site-ad">
+		<div id="ad-halfpage" class="ad-halfpage">
+			<div id="ad-600x300">
+				<div class="g g-1"><div class="g-single a-51"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-5042417982620856"
+     data-ad-slot="1358196521"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>			</div>
+			<a class="ad-info" href="https://www.macblog.sk/inzercia/" title="Zistite ako inzerovať na MacBlogu.">Inzercia</a>
+		</div>
+	</div>
+</div>
+			<div class="secondary-content main-col">
+<div class="essbfc-container essbfc-col-4 essbfc-template-tinylight"><ul><li class="essbfc-facebook"><a href="https://www.facebook.com/macblog" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-facebook"></i><span class="essbfc-followers-count">17.3k</span><span class="essbfc-followers-text">fanúšikov</span></div></a></li><li class="essbfc-twitter"><a href="https://www.twitter.com/macblog" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-twitter"></i><span class="essbfc-followers-count">1.4k</span><span class="essbfc-followers-text">fanúšikov</span></div></a></li><li class="essbfc-google"><a href="https://plus.google.com/+MacblogSk" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-google"></i><span class="essbfc-followers-count">27</span><span class="essbfc-followers-text">fanúšikov</span></div></a></li><li class="essbfc-pinterest"><a href="https://www.pinterest.com/macblogsk" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-pinterest"></i><span class="essbfc-followers-count">17</span><span class="essbfc-followers-text">fanúšikov</span></div></a></li><li class="essbfc-instagram"><a href="http://instagram.com/macblogsk" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-instagram"></i><span class="essbfc-followers-count">27</span><span class="essbfc-followers-text">Followers</span></div></a></li><li class="essbfc-youtube"><a href="https://www.youtube.com/channel/UC2A9HrHyZIskJ-Oad9pBmNQ" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-youtube"></i><span class="essbfc-followers-count">2</span><span class="essbfc-followers-text">Subscribers</span></div></a></li><li class="essbfc-mymail"><a href="https://www.macblog.sk/newsletter/" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-mymail"></i><span class="essbfc-followers-count">1.7k</span><span class="essbfc-followers-text">Subscribers</span></div></a></li><li class="essbfc-rss"><a href="https://www.macblog.sk/feed/" target="_blank" rel="nofollow"><div class="essbfc-network"><i class="essbfc-icon essbfc-icon-rss"></i><span class="essbfc-followers-count"></span><span class="essbfc-followers-text">odberateľov</span></div></a></li></ul></div>			<div class="partners sc-box">
+				<h2>Partneri</h2>
+				<ul>
+					<li><a class="gofollow" data-track="Myw0LDEsNjA=" href="http://www.swp.sk" target="_blank"><img src="https://www.macblog.sk/wp/wp-content/uploads/2016/08/partner-swp-stvorec.png" /></a></li><li><a class="gofollow" data-track="NDcsNCwxLDYw" href="https://detepe.sk/" target="_blank"><img src="https://www.macblog.sk/wp/wp-content/uploads/2016/09/partner-detepe.png" /></a></li><li><a class="gofollow" data-track="NCw0LDEsNjA=" href="https://www.istores.sk" target="_blank"><img src="https://www.macblog.sk/wp/wp-content/uploads/2016/08/partner-istores-stvorec.png" /></a></li>				</ul>
+			</div>
+					<div class="most-popular sc-box -list">
+			<h2>Najčítanejšie</h2>
+			
+<!-- WordPress Popular Posts Plugin v3.3.4 [PHP] [monthly] [views] [custom] -->
+
+<!-- cached -->
+
+<ul class="wpp-list">
+<li><a href="https://www.macblog.sk/2016/istores-spristupnuje-iphone-za-299-e-vsetkym/" title="iStores sprístupňuje iPhone za 299&nbsp;€ všetkým!" class="wpp-post-title" target="_self">iStores sprístupňuje iPhone za 299&nbsp;€ všetkým!</a> <div class='date'>23. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/3-kody-ktere-vam-otevrou-nove-moznosti-iphonu/" title="3 kódy které vám otevřou nové možnosti iPhonu" class="wpp-post-title" target="_self">3 kódy které vám otevřou nové možnosti iPhonu</a> <div class='date'>29. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/apple-sa-kvoli-iphonu-se-dostal-do-zacarovaneho-kruhu-musi-ho-predstavit-aj-buduci-rok/" title="Apple sa kvôli iPhonu SE dostal do začarovaného kruhu, musí ho predstaviť aj budúci rok" class="wpp-post-title" target="_self">Apple sa kvôli iPhonu SE dostal do začarovaného kruhu, musí ho predstaviť aj budúci rok</a> <div class='date'>6. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/macbook-este-stale-macbook/" title="Je MacBook ešte stále MacBook?" class="wpp-post-title" target="_self">Je MacBook ešte stále MacBook?</a> <div class='date'>5. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/novy-macbook-pro-sa-prakticky-neda-opravit-zistil-ifixit/" title="Nový MacBook Pro sa prakticky nedá opraviť, zistil iFixIt" class="wpp-post-title" target="_self">Nový MacBook Pro sa prakticky nedá opraviť, zistil iFixIt</a> <div class='date'>18. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/navod-6s-vymena-baterie/" title="Jak zjistit zda-li máte nárok na výměnu baterie na iPhone&nbsp;6s?" class="wpp-post-title" target="_self">Jak zjistit zda-li máte nárok na výměnu baterie na iPhone&nbsp;6s?</a> <div class='date'>29. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/loupedeck-nova-era-foto-postprodukcie/" title="Loupedeck – nová éra foto postprodukcie?" class="wpp-post-title" target="_self">Loupedeck – nová éra foto postprodukcie?</a> <div class='date'>7. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/kgi-apple-predstavi-5-2-palcovy-iphone-8-edge/" title="KGI: Apple predstaví 5.2-palcový iPhone&nbsp;8 Edge" class="wpp-post-title" target="_self">KGI: Apple predstaví 5.2-palcový iPhone&nbsp;8 Edge</a> <div class='date'>17. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/tip-touch-bar-svojom-macu-ipade/" title="Tip: Vyskúšajte si nový Touch Bar aj na svojom terajšom Macu, či&nbsp;iPade" class="wpp-post-title" target="_self">Tip: Vyskúšajte si nový Touch Bar aj na svojom terajšom Macu, či&nbsp;iPade</a> <div class='date'>12. 11.</div></li>
+<li><a href="https://www.macblog.sk/2016/steve-ballmer-rokoch-reaguje-svoj-vyrok-neuspesnom-iphone-ukazuje-touch-bar-roku-2009/" title="Steve Ballmer po&nbsp;rokoch reaguje na svoj výrok o&nbsp;neúspešnom iPhone a&nbsp;ukazuje Touch Bar z&nbsp;roku 2009" class="wpp-post-title" target="_self">Steve Ballmer po&nbsp;rokoch reaguje na svoj výrok o&nbsp;neúspešnom iPhone a&nbsp;ukazuje Touch Bar z&nbsp;roku 2009</a> <div class='date'>8. 11.</div></li>
+
+</ul>
+
+<!-- End WordPress Popular Posts Plugin v3.3.4 -->
+		</div>
+		<div class="sc-box-container"><div class="g g-5"><div class="g-single a-66"><a class="gofollow" data-track="NjYsNSwxLDYw" href="https://www.uvea.sk/revolucia" target="_blank"><img src="https://www.macblog.sk/wp/wp-content/uploads/2016/11/banner-macblog.png" /></a></div></div></div>		<div class="forum-latest sc-box -list">
+			<h2>Nové príspevky - fórum</h2>
+			<ul><li><a href="https://www.macblog.sk/forum/tema/macbook-air-vs-hp-envy-13/">Macbook Air vs HP Envy 13</a></li><li><a href="https://www.macblog.sk/forum/tema/problem-pri-aple-hw-teste/">problem pri Aple HW teste</a></li><li><a href="https://www.macblog.sk/forum/tema/v-com-vytvorit-rychly-a-jednoduchy-web-zdarma/">V com vytvorit rychly a jednoduchy web zdarma?</a></li><li><a href="https://www.macblog.sk/forum/tema/ktory-iphone/">Ktory iphone?</a></li><li><a href="https://www.macblog.sk/forum/tema/kupa-iphone-6-vs-iphone-se/">Kúpa - Iphone 6 vs Iphone SE</a></li><li><a href="https://www.macblog.sk/forum/tema/kupa-nabijacky-na-starsi-macbook/">Kúpa nabíjačky na starší MacBook</a></li><li><a href="https://www.macblog.sk/forum/tema/browser-pre-macos/">Aky browser pouzivate na MacOS?</a></li><li><a href="https://www.macblog.sk/forum/tema/iphone-6-touch-screen/">iPhone 6 Touch Screen</a></li><li><a href="https://www.macblog.sk/forum/tema/macbook-pro-5/">Je to v poriadku ze neviem prehrať na YT video v 720p bez sekania na MBP 2008?</a></li><li><a href="https://www.macblog.sk/forum/tema/fotky-a-videa/">Fotky a Videa</a></li></ul>		</div>
+		<div class="sc-box-container"><h2 class="sc-box-heading">Najnovšie inzeráty</h2><ul class="awpcp-listings-widget-items-list"><li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/230/predam-iphone-6-plus-64gb-space-grey/iphone/">Predám iPhone 6 plus 64gb space grey</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/228/predam-dokovaciu-stanicu-thunderbolt-2-express-dock-hd-with-cable/prislusenstvo-k-macom/">PREDÁM: Dokovaciu stanicu - Thunderbolt 2 Express Dock HD with Cable</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/227/p-iphone-5s-gold-16gb-vyborny-stav/iphone/">P: iPhone 5S, Gold, 16GB - VYBORNY stav</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/226/imac-21-5-mid-2014-i5/mac/">iMac 21.5, Mid 2014, i5</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/225/predam-naramky-pre-apple-watch/watch/">Predám náramky pre Apple Watch</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/224/predam-macbook-pro-15retina-2013-24ghz-16gb-2-roky-zaruka/mac/">Predam macbook pro 15"retina 2013 2,4Ghz 16GB 2 roky zaruka</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/223/p-apple-magicmouse-nova/prislusenstvo-k-macom/">P: Apple, MagicMouse (NOVÁ)</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/222/p-apple-klavesnica-bezkablova-hlinikova-svk-nova/prislusenstvo-k-macom/">P: Apple, Klávesnica bezkáblová hliníková SVK (NOVÁ)</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/219/p-apple-iphone-6s-plus-16-gb-gold-zlaty/iphone/">P: Apple iPhone 6S Plus 16 GB Gold Zlaty</a></div> </div></li>
+<li class="awpcp-listings-widget-item awpcp-listings-widget-item-with-left-thumbnail-in-desktop awpcp-listings-widget-item-with-thumbnail-above-in-mobile "><div class="awpcplatestbox awpcp-clearfix"><div class="awpcp-listing-title"><a href="https://www.macblog.sk/bazar/zobrazit-inzerat/217/macbook-pro-15retina-2012-16gb-ram256gb-ssd-zaruka-12m/mac/">MacBook Pro 15''RETINA 2012, 16GB RAM,256gb ssd, ZARUKA 12m</a></div> </div></li></ul></div><div class="sc-box-container"><div class="g g-6"><div class="g-single a-54"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 300x250 - 2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5042417982620856"
+     data-ad-slot="2695328926"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div>		<div class="sc-box reviews">
+			<h2>Recenzie</h2>
+			<ul>
+													<li class="reviews-entry" style="background-image:url(https://www.macblog.sk/wp/wp-content/uploads/2016/09/iphone_7_prve_dojmy3-600x450.jpg);">
+						<a href="https://www.macblog.sk/2016/prve-dojmy-iphone-7/">
+							Prvé dojmy: iPhone&nbsp;7						</a>
+					</li>
+									<li class="reviews-entry" style="background-image:url(https://www.macblog.sk/wp/wp-content/uploads/2016/09/beats-solo-2-wireless-600x400.jpg);">
+						<a href="https://www.macblog.sk/2016/recenzia-beats-solo-2-wireless/">
+							Recenzia: Beats Solo 2 Wireless						</a>
+					</li>
+									<li class="reviews-entry" style="background-image:url(https://www.macblog.sk/wp/wp-content/uploads/2016/09/ios-10-recenzia-main-600x325.jpg);">
+						<a href="https://www.macblog.sk/2016/recenzia-ios-10/">
+							Recenzia: iOS 10						</a>
+					</li>
+									<li class="reviews-entry" style="background-image:url(https://www.macblog.sk/wp/wp-content/uploads/2016/08/Duet-Display-600x201.jpg);">
+						<a href="https://www.macblog.sk/2016/recenze-duet-display/">
+							Recenze: Duet Display						</a>
+					</li>
+											</ul>
+		</div>
+
+		<div class="sc-box-container"><h2 class="sc-box-heading"> MacBlog newsletter</h2><style id='mymail-form-default' type='text/css'>.mymail-emebed-form body{background:0;padding:0;margin:0}.mymail-emebed-form .mymail-form-body{padding:5px !important;margin:auto !important}.mymail-form-wrap{max-width:100%;max-height:95%;min-width:100px;-webkit-overflow-scrolling:touch}.mymail-form{margin-bottom:20px;position:relative}.mymail-form:before{content:"";position:absolute;display:block;height:100%;width:100%;z-index:1;background-repeat:no-repeat;background-position:center center;background-size:16px 16px;background-image:url('http://www.macblog.sk/wp/wp-content/plugins/myMail/assets/css/../img/loading.gif');visibility:hidden;opacity:0;-webkit-transition:opacity .15s ease-in-out;-moz-transition:opacity .15s ease-in-out;-ms-transition:opacity .15s ease-in-out;-o-transition:opacity .15s ease-in-out;transition:opacity .15s ease-in-out}.mymail-form.loading:before{opacity:1;visibility:visible}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi){.mymail-form:before{background-image:url('http://www.macblog.sk/wp/wp-content/plugins/myMail/assets/css/../img/loading_2x.gif')}}.mymail-form:after,.mymail-form-fields:after{content:".";visibility:hidden;display:block;height:0;clear:both}.mymail-form,.mymail-form .input,.mymail-form .mymail-form-info{width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.mymail-emebed-form .mymail-form{margin-bottom:3px}.mymail-form .mymail-wrapper{position:relative;margin-bottom:2px;-webkit-transition:opacity .15s ease-in-out;-moz-transition:opacity .15s ease-in-out;-ms-transition:opacity .15s ease-in-out;-o-transition:opacity .15s ease-in-out;transition:opacity .15s ease-in-out}.mymail-form.loading .mymail-wrapper{opacity:.2}.mymail-form textarea.input{resize:vertical;height:150px}.mymail-form li{list-style:none !important;margin-left:0;padding-left:0}span.mymail-required{font-size:120%;font-weight:700;color:#bf4d4d}.mymail-lists-wrapper ul{list-style:none;margin-left:0;padding-left:0}.mymail-lists-wrapper ul li{margin-left:0}.mymail-list-description{color:inherit;display:block;margin-left:25px;font-size:.8em}.mymail-form-info{height:0;border-radius:2px;padding:5px;margin-bottom:4px;color:#fff;padding:9px 16px;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s;-webkit-transform:scale(0);-moz-transform:scale(0);-ms-transform:scale(0);transform:scale(0)}.mymail-form.loading .mymail-form-info{opacity:0}.mymail-form-info a{color:#fff}.mymail-form-info.success,.mymail-form-info.error{display:block;height:100%;-webkit-transform:scale(1);-moz-transform:scale(1);-ms-transform:scale(1);transform:scale(1)}.mymail-form .error input,.mymail-form .error select,.mymail-form .error textarea{outline:2px solid #bf4d4d;outline-offset:0}.mymail-form-info.error{background:#bf4d4d}.mymail-form-info.success{background-color:#6fbf4d;text-align:center}.mymail-form-info ul,.mymail-form .mymail-form-info p{margin:0;padding:0}.mymail-form-info ul li{color:inherit;margin-left:0}.mymail-submit-wrapper{margin-top:6px}.mymail-form .submit-button{cursor:pointer}.mymail-form .submit-button:focus{outline:0}</style><form action="https://www.macblog.sk/mymail/subscribe" method="post" class="mymail-form-1 mymail-form mymail-form-submit mymail-ajax-form mymail-in-widget"><input name="_referer" type="hidden" value="https://www.macblog.sk/files/ipodblog/event01/01_ipod-shuffle-new-colors.jpg">
+<input name="formid" type="hidden" value="1">
+<div class="mymail-form-fields">
+<div class="mymail-wrapper mymail-email-wrapper"><input id="mymail-email-1" name="email" type="email" value="" placeholder="Email *" class="input mymail-email mymail-required" aria-required="true" aria-label="Email" spellcheck="false"></div>
+<label style="position:absolute;top:-99999px;left:-99999px;z-index:-99;"><input name="n_b40bff1913_email" type="email" tabindex="-1" autocomplete="off"></label>
+<div class="mymail-wrapper mymail-submit-wrapper form-submit"><input name="submit" type="submit" value="Prihlásiť sa" class="submit-button button" aria-label="Prihlásiť sa"></div>
+</div>
+</form>
+</div>
+</div>
+
+		</div>
+	</div><!-- end of "#main-wrapper" -->
+
+	<div class="ad-classic-banner">
+	<div class="g g-3"><div class="g-single a-1"><a class="gofollow" data-track="MSwzLDEsNjA=" href="https://www.istores.sk/iphone-iphone-5s_c3997.html" target="_blank"><img src="https://www.macblog.sk/wp/wp-content/uploads/2016/07/bannery3.jpg" /></a></div></div>	<a class="ad-info" href="https://www.macblog.sk/inzercia/" title="Zistite ako inzerovať na MacBlogu.">Inzercia</a>
+</div>
+
+	<footer class="site-footer">
+
+	<div class="container">
+		
+		<div class="footer-action">
+			<ul class="footer-social">
+				<li><a href="https://www.facebook.com/macblog" class="social-icon -facebook">Facebook</a></li>
+				<li><a href="https://twitter.com/macblog" class="social-icon -twitter">Twitter</a></li>
+				<li><a href="https://www.macblog.sk/feed/" class="social-icon -rss">RSS</a></li>
+			</ul>
+
+			<a href="#" id="back-to-top-button">Hore</a>
+		</div>
+
+		<ul id="menu-menu-patka" class="footer-links"><li id="menu-item-480131" class="roost-prompt-wp menu-item menu-item-type-custom menu-item-object-custom menu-item-480131"><a href="#">Aktivovať notifikácie</a></li>
+<li id="menu-item-482628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482628"><a href="https://www.macblog.sk/newsletter/">Newsletter</a></li>
+<li id="menu-item-412385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412385"><a href="https://www.macblog.sk/inzercia/">Inzercia</a></li>
+<li id="menu-item-412386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412386"><a href="https://www.macblog.sk/kontakt/">Kontakt</a></li>
+</ul>		
+		<div class="footer-text">
+			&copy; 2006 – 2016. Server a konektivitu zabezpečuje DataCamp.
+		</div>
+
+	</div>
+
+</footer>	
+	</div> <!-- end ".macblog-body" -->
+	        <script>
+            if ( 'undefined' !== typeof window.navigator.serviceWorker ) {
+                window.navigator.serviceWorker.getRegistration("http://www.macblog.sk/wp/wp-content/plugins/roost-for-bloggers/includes/chrome/").then( function( registration ) { if ( 'undefined' !== typeof registration && registration.scope === 'http://www.macblog.sk/wp/wp-content/plugins/roost-for-bloggers/includes/chrome/' ) { registration.unregister(); navigator.serviceWorker.register("/?roost=true&roost_action=worker", {scope: "/"}) } } );
+            }
+        </script>
+                <script src="//cdn.goroost.com/roostjs/0sh654ifs6snw8m833o2cgsh2ush9jiq" async></script>
+                    <script>
+                var _roost = _roost || [];
+                _roost.push( [ 'autoprompt', false ] );
+                                    _roost.push( [ 'minvisits', "2" ] );
+                                        ( function( $ ) {
+                            $( '.roost-prompt-wp' ).on( 'click', function( e ) {
+                                e.preventDefault();
+                                _roost.prompt();
+                            });
+                            _roost.push(['onload', function(data){
+                                if ( false === data.promptable ) {
+                                    $( '.roost-prompt-wp' ).hide();
+                                }
+                            }]);
+                            _roost.push(['onresult', function(data){
+                                if ( true === data.registered || false === data.registered ) {
+                                    $( '.roost-prompt-wp' ).hide();
+                                }
+                            }]);
+                        })( jQuery );
+                            </script>
+    
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+<script type="text/javascript">
+		var recaptcha_widgets={};
+		function wp_recaptchaLoadCallback(){ 
+			try {
+				grecaptcha;
+			} catch(err){
+				return;
+			}
+			var e = document.querySelectorAll ? document.querySelectorAll('.g-recaptcha:not(.wpcf7-form-control)') : document.getElementsByClassName('g-recaptcha'),
+				form_submits;
+
+			for (var i=0;i<e.length;i++) {
+				(function(el){
+					var wid;
+					// check if captcha element is unrendered
+					if ( ! el.childNodes.length) {
+						wid = grecaptcha.render(el,{
+							'sitekey':'6LcdGiYTAAAAAOwuDMizK3_wRSfP3vZyfroj6ePc',
+							'theme':el.getAttribute('data-theme') || 'light'
+						});
+						el.setAttribute('data-widget-id',wid);
+					} else {
+						wid = el.getAttribute('data-widget-id');
+						grecaptcha.reset(wid);
+					}
+				})(e[i]);
+			}
+		}
+		
+		// if jquery present re-render jquery/ajax loaded captcha elements 
+		if ( typeof jQuery !== 'undefined' )
+			jQuery(document).ajaxComplete( function(evt,xhr,set){
+				if( xhr.responseText && xhr.responseText.indexOf('6LcdGiYTAAAAAOwuDMizK3_wRSfP3vZyfroj6ePc') !== -1)
+					wp_recaptchaLoadCallback();
+			} );
+		
+		</script><script src="https://www.google.com/recaptcha/api.js?onload=wp_recaptchaLoadCallback&#038;render=explicit" async defer></script>
+<!-- END recaptcha -->
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/myMail/assets/js/form.min.js?ver=2.1.22'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/wp-ulike/assets/js/wp-ulike-plugins.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/www.macblog.sk\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.11-6121'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/www.macblog.sk\/wp\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"yes","onScrollOffset":"600","cookieName":"cookie_notice_accepted","cookieValue":"TRUE","cookieTime":"7862400","cookiePath":"\/","cookieDomain":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/cookie-notice/js/front.js?ver=1.2.36.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.macblog.sk\/wp\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.1'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/js/vendor/jquery.scrollTo.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/js/vendor/velocity.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/js/vendor/lightbox.min.js?ver=2.7.1'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/bower_components/bootstrap/dist/js/bootstrap.min.js?ver=3.3.7'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-content/themes/mbsapphire/assets/js/effects.js?ver=1.31'></script>
+<script type='text/javascript' src='http://www.macblog.sk/wp/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<!-- AdRotate JS -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+if(jQuery.fn.gslider) {
+}
+});
+</script>
+<!-- /AdRotate JS -->
+
+<link rel="stylesheet" id="essb-cct-style"  href="http://www.macblog.sk/wp/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all" /><script type="text/javascript">var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (typeof(essb_abtesting_logger) != "undefined") { essb_abtesting_logger(oService, instance_post_id, oInstance); } var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (oService == "subscribe" || oService == "comments") return; if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } if (typeof(after_share_easyoptin) != "undefined") { essb_toggle_subscribe(after_share_easyoptin); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); };</script>
+			<div id="cookie-notice" class="cn-bottom wp-default" style="color: #fff; background-color: #45474b;"><div class="cookie-notice-container"><span id="cn-notice-text">Používaním MacBlog.sk súhlasíte s využitím cookies, ktoré nám pomáhajú skvalitňovať služby. Cookies si môžete vypnúť vo svojom prehliadači.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie button wp-default">Rozumiem</a>
+				</div>
+			</div>	<!-- Scripts -->
+
+<!-- Vendor -->
+<script>svgeezy.init(false, 'png');</script>
+
+<!-- GA -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+	var firstTracker = _gat._getTracker("UA-327946-4");
+	firstTracker._initData();
+	firstTracker._trackPageview();
+
+	var secondTracker = _gat._getTracker("UA-4807355-1");
+	secondTracker._initData();
+	secondTracker._trackPageview();
+	
+	var thirdTracker = _gat._getTracker("UA-7073750-1");
+	thirdTracker._initData();
+	thirdTracker._trackPageview();
+} catch(err) {}	
+</script>
+
+<!-- iTunes -->
+<script type='text/javascript'>var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '1001l8ut']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>
+
+<!-- Sitelement -->
+<script type='text/javascript' src='https://ad.sitelement.sk/www/delivery/src_tg.php'></script>
+<script type='text/javascript'><!--//<![CDATA[
+	if(typeof(src_param)=='undefined'){src_param='';}
+	var m3_u = (location.protocol=='https:'?'https://ad.sitelement.sk/www/delivery/ajs.php':'http://ad.sitelement.sk/www/delivery/ajs.php');
+	var m3_r = Math.floor(Math.random()*99999999999);
+	if (!document.MAX_used) document.MAX_used = ',';
+	document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	document.write ("?zoneid=2864&amp;source="+src_param);
+	document.write ('&amp;cb=' + m3_r);
+	if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	document.write ("&amp;loc=" + escape(window.location));
+	if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	if (document.context) document.write ("&context=" + escape(document.context));
+	if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='https://ad.sitelement.sk/www/delivery/ck.php?n=a4dae37d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='https://ad.sitelement.sk/www/delivery/avw.php?zoneid=2864&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4dae37d' border='0' alt='' /></a></noscript>
+
+<!-- Google Code for macblog.sk -->
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 985425585;
+var google_conversion_label = "Lsx5CP_juwUQsc3x1QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985425585/?value=1.00&amp;currency_code=EUR&amp;label=Lsx5CP_juwUQsc3x1QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

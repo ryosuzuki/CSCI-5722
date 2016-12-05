@@ -1,0 +1,514 @@
+﻿<!DOCTYPE html>
+<html xml:lang="en-US" lang="en-US">
+	<!-- User-Agent: Python-urllib/1.17 -->
+	<!-- UA Code: lynx -->
+	<!-- Platform Code: unix -->
+	<!-- Country Code: US -->
+	<head>
+		<title>
+			Photos of Africa
+		</title><meta name="robots" content="noindex" /><meta property="og:type" content="article" /><meta property="og:site_name" content="Photos of Africa|Film Maker|Wildlife and Travel Photographer|HD Stock Footage|Internet TV|Photo Safaris|Mobile APP" /><meta property="og:url" content="http://www.photosofafrica.com/Photos/thumbnails/Elephant-4_jpg.jpg" /><meta property="og:description" content="Photos of Africa" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"42190e8f8a","applicationID":"9920838","transactionName":"NFIHMBFTDxYDBk1RVw0YFQUEVxJKDgRAV00XGCAWEV0TNQMCXA==","queueTime":0,"applicationTime":20,"ttGuid":"5D516A2B7E34FA7E","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><link rel="Shortcut Icon" href="/img/s1/v19/u10298576-o98720022-81.ico" /><link rel="stylesheet" href="http://cdn.zenfolio.net/zf/theme/en-US/lynx/unix/4JG29TF3EN1RY/antique/antique.css" type="text/css" /><script src="http://cdn.zenfolio.net/zf/script/en-US/lynx/unix/2DBNAJ8Y28UM5/layout.js" type="text/javascript">
+
+		</script><script type="text/javascript">
+			zf_cdnHost = 'cdn.zenfolio.net';var objGA = new zfl_Analytics(false,false,'','','',null,null);
+		</script>
+	</head><body class="body-layout-errorpage desktop-layout">
+		<div class="show" id="page-frame">
+			<div class="mat-frame" id="mat-frame">
+				<div id="mat-frame-height" class="mat-height" style="top:45px;bottom:0px">
+					<div id="mat-frame-width" class="mat-width">
+						<div class="mat-outer-h mat-horz-height mat-top" id="mat-frame-top">
+							<div class="mat-frame-top-left mat-left mat-vert-width">
+
+							</div><div class="mat-frame-top-right mat-right mat-vert-width">
+
+							</div><div class="mat-frame-top mat-margin-left mat-margin-right">
+
+							</div>
+						</div><div class="mat-outer-h mat-horz-height mat-bottom" id="mat-frame-bottom">
+							<div class="mat-frame-bottom-left mat-left mat-vert-width">
+
+							</div><div class="mat-frame-bottom-right mat-right mat-vert-width">
+
+							</div><div class="mat-frame-bottom mat-margin-left mat-margin-right">
+
+							</div>
+						</div><div class="mat-outer-m mat-top-total mat-bottom-total" id="mat-frame-middle">
+							<div class="mat-frame-left mat-left mat-vert-width">
+
+							</div><div class="mat-frame-right mat-right mat-vert-width">
+
+							</div><div class="mat-frame-middle mat-margin-left mat-margin-right">
+
+							</div>
+						</div>
+					</div>
+				</div><div class="hdr-outer header-bgcolor1 header-bgimage1 header-border1" style="height: 60px">
+					<div id="header" class="hdr header-bgcolor7 header-bgimage7 header-border7 header-font1 hdr-vert-middle">
+						<div class="hdr-left-holder">
+							<div class="hdr-left">
+								
+        
+
+<a 
+    class="hdr-logo header-color7 header-font7" 
+    href="/" 
+    style="padding:0px 10px;" title="Photos of Africa">
+
+    Photos of Africa
+
+    
+            
+</a>
+
+    
+							</div>
+						</div><div class="hdr-right-holder">
+							<div class="hdr-right">
+								
+        
+
+<div class="hdr-social home-btns">
+
+    
+        <a class="icon icon-facebook" target="_blank" href="https://www.facebook.com/PhotosofAfrica"></a>
+    
+
+    
+        <a class="icon icon-linkedin" target="_blank" href="https://www.linkedin.com/in/photosofafrica"></a>
+    
+
+    
+        <a class="icon icon-instagram" target="_blank" href="https://instagram.com/photosofafrica/"></a>
+    
+
+    
+        <a class="icon icon-google" target="_blank" rel="publisher" href="https://plus.google.com/+photosofafrica"></a>
+    
+
+    
+        <a class="icon icon-twitter" target="_blank" href="https://twitter.com/photosofafrica"></a>
+    
+
+    
+        <a class="icon icon-pinterest" target="_blank" href="https://www.pinterest.com/photosofafrica/"></a>
+    
+
+    
+
+</div>
+
+    
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+<div class="menubar-outer menubar-bgcolor1 menubar-bgimage1 menubar-border1">
+<div id="_aba" 
+     class="menubar menubar-bgcolor5 menubar-bgimage5 menubar-border5 menubar-font1 menubar-left ">
+
+    <ul class="menubar-inner">
+        
+            <li class="menubar-center-top-item">
+                <a class="menubar-color1"  data-zf-index="1" href="/" title="Photos of Africa">Home</a>
+                    
+            </li>
+        
+
+    </ul>
+
+</div>
+</div>
+
+
+
+<div class="layout-frame layout-bgcolor1 layout-bgimage1 layout-static visitor">
+					<div class="layout-content layout-bgcolor6 layout-bgimage6">
+						<div class="layout  builtin-error">
+							
+
+    
+    
+    <div class="text-center error-font1 error-color1">
+        
+        Sorry, the page you were looking for cannot be found.
+        
+    </div>
+
+
+						</div>
+					</div>
+				</div>
+<!--
+Exception: 
+-->
+
+<div class="ftr-outer footer-border1 footer-bgcolor1 footer-bgimage1">
+					<div id="footer" class="ftr footer-bgcolor4 footer-bgimage4 footer-color1 footer-font1 footer-border4 footer-static ftr-vert-middle" style="height: 65px">
+						<div class="ftr-left-holder">
+
+						</div><div class="ftr-right-holder">
+							<div class="ftr-right">
+								
+        
+
+<div class="ftr-social home-btns">
+
+    
+        <a class="icon icon-facebook" target="_blank" href="https://www.facebook.com/PhotosofAfrica"></a>
+    
+
+    
+        <a class="icon icon-linkedin" target="_blank" href="https://www.linkedin.com/in/photosofafrica"></a>
+    
+
+    
+        <a class="icon icon-instagram" target="_blank" href="https://instagram.com/photosofafrica/"></a>
+    
+
+    
+        <a class="icon icon-google" target="_blank" rel="publisher" href="https://plus.google.com/+photosofafrica"></a>
+    
+
+    
+        <a class="icon icon-twitter" target="_blank" href="https://twitter.com/photosofafrica"></a>
+    
+
+    
+        <a class="icon icon-pinterest" target="_blank" href="https://www.pinterest.com/photosofafrica/"></a>
+    
+
+    
+
+</div>
+
+    
+							</div>
+						</div><div class="ftr-menu-center">
+							
+        
+
+<div id="_aca" class="ftr-menu" style="max-height:65px;">
+
+    <ul>
+        
+
+        <li class="ftr-top-item">
+
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="1" href="/" title="Photos of Africa">
+                Home
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="2" href="/dvd-titels" title="DVD Titels">
+                Travel DVD's
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="3" href="/links">
+                Links
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="4" href="/contact.html">
+                Contact
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="5" href="/guestbook.html">
+                Guestbook
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="6" href="/about.html">
+                About
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="7" href="/our-vision">
+                Our Vision
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="8" href="/sponsors">
+                Sponsors
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="9" href="/search.html" rel="nofollow">
+                Search
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="10" href="/blog">
+                Blog
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="11" href="/kruger-park">
+                Kruger Park
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="12" href="/interactice-map-of-south-africa" title="Interactice Map of South Africa">
+                Interactive Map
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+
+        <li class="ftr-top-item">
+
+            
+            <span class="footer-color5">|</span>
+              
+                                      
+            <a class="footer-font4 footer-color2" data-zf-index="13" href="/nikon-shop">
+                Nikon Shop
+
+                  
+            </a>
+
+            
+                       
+        </li>                        
+                    
+        
+    </ul>
+
+</div>
+
+
+    
+						</div>
+					</div><div>
+						
+        
+
+<div id="_acb" class="bottom-links">
+
+        <a href="http://www.zenfolio.com/?refcode=photosofafrica" target="_blank" class="footer-color7">Powered by <span class="logo">ZENFOLIO</span></a>
+    
+        <a href="/zf/f/user-agreement" rel="nofollow" id="_acb-showua" class="footer-color7">User Agreement</a>
+
+</div>
+
+
+
+
+    
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+
+<div id="_ad" class="scrapbook-popup login-dlg">
+    <i class="fa fa-close js-scrapbook-popup-close" title="Close"></i>
+
+    <div class="scrapbook-popup-header" id="_ad-title"></div>
+
+    <div class="scrapbook-popup-body">
+        <div id="_ad-message"></div>
+
+        <div class="login-dlg-footer">
+            <div id="_ada" class="button button-large button-large-anim js-scrapbook-popup-close">
+			<div class="standard button-color1 button-bgcolor1 button-border1" id="_ada-state">
+				<div class="left">
+
+				</div><div class="right">
+
+				</div><div class="middle">
+					<div class="label button-font2">
+						Cancel<div class="icon">
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+            <div id="_adb" class="button button-large button-large-anim login-dlg-footer-continue">
+			<div class="standard button-color1 button-bgcolor1 button-border1" id="_adb-state">
+				<div class="left">
+
+				</div><div class="right">
+
+				</div><div class="middle">
+					<div class="label button-font2">
+						Continue<div class="icon">
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        </div>
+    </div>
+</div>
+
+<div id="_ae" class="prefetch">
+
+		</div><script type="text/javascript">
+			//<!--
+			_zf_stdRegisterDelayLoad('http://cdn.zenfolio.net/zf/script/en-US/lynx/unix/31VNMXKBKM8V6/scrapbook.js');
+			var _zf_ae = new zf_Prefetch('_ae', 18);
+			//-->
+
+		</script>
+	</body>
+</html>
