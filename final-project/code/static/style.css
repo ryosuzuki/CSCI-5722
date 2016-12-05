@@ -1,0 +1,29 @@
+.category-0 {
+  background-color: #00B5AD!important;
+  border-color: #00B5AD!important;
+  color: #FFF!important;
+}
+.category-1 {
+  background-color: #ddaa00!important;
+  border-color: #ddaa00!important;
+  color: #FFF!important;
+}
+.category-2 {
+  background-color: #767676!important;
+  border-color: #767676!important;
+  color: #FFF!important;
+}
+.category-3 {
+  background-color: #975b33!important;
+  border-color: #975b33!important;
+  color: #FFF!important;
+}
+.category-4 {
+  background-color: #a7bd0d!important;
+  border-color: #a7bd0d!important;
+  color: #FFF!important;
+}
+
+.less-confident {
+  opacity: 0.5 !important;
+}

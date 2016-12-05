@@ -1,9 +1,43 @@
 <!doctype html>
 <title>Image Classification</title>
-<!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
- -->
- <div class="page">
-  <h1>Image Classification</h1>
+<link rel="stylesheet" type="text/css" href="/static/semantic-min.css">
+<link rel="stylesheet" type="text/css" href="/static/style.css">
+<script type="text/javascript" src="/static/semantic-min.js"></script>
+<body>
+
+
+  <div class="ui left fixed vertical menu" style="width:300px">
+    <div class="item">
+      <h3>Bag of Visual Words</h3>
+      <a class="item" href="/23">Similar Image Search</a>
+      <a class="item" href="/categories/0">Image Categories</a>
+      <h3>Convolutional Neural Network</h3>
+      <a class="item">Object Recognition</a>
+      <a class="item">Image Categories</a>
+      <a class="item"></a>
+    </div>
+
+    {% if type == 'show' %}
+      <div class="item">
+        <h1>Query</h1>
+        <img src="{{ images[0]['path'] }}" alt="" style="width:100%">
+        <p>Id: <b>{{ images[0]['id'] }}</b> </p>
+        <p>Category: <a class="ui label category-{{ cluster_map[images[0]['id']] }}" href="/categories/{{ cluster_map[images[0]['id']] }}">Category-{{ cluster_map[images[0]['id']] }}</a> </p>
+      </div>
+    {% elif type == 'category' %}
+      <div class="item">
+        <h1>Query</h1>
+        <p><a class="ui label category-{{ cluster_map[images[0]['id']] }}" href="/categories/{{ cluster_map[images[0]['id']] }}">Category-{{ cluster_map[images[0]['id']] }}</a> </p>
+        <br>
+        <h3>Other categories</h3>
+        {% for i in [0, 1, 2, 3, 4] %}
+        <p><a class="ui label category-{{ i }}" href="/categories/{{ i }}">Category-{{ i }}</a> </p>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
+
 
   {% block body %}{% endblock %}
-</div>
+</body>

@@ -1,12 +1,29 @@
 {% extends "layout.html" %}
 {% block body %}
-  <ul class="entries">
-  {% for image in images %}
-    <a href="/{{ image['id'] }}">
-    <li><h2>{{ image['id'] }}</h2></li>
-    <li>{{ image['similarity'] }}</li>
-    <li><img src="/{{ image['path'] }}" alt="" width="300"></li>
-    </a>
+
+<div class="ui grid" style="margin-left: 350px">
+  <div class="ui items">
+  {% for image in images[offset:] %}
+    <div class="item" style="opacity: {{ image['similarity']+0.15 if (image['similarity']) }}">
+      <a href="/{{ image['id'] }}" class="image" style="width: 200px">
+        <img class="ui image" src="/{{ image['path'] }}">
+      </a>
+      <div class="content">
+        <a class="header">{{ loop.index }}</a>
+        <div class="meta">
+          {% if type == 'show' %}
+            <p>Similarity: <b>{{ image['similarity'] }}</b></p>
+          {% elif type == 'category' %}
+            <p>Distance: <b>{{ image['distance'] }}</b></p>
+          {% endif %}
+          <p>Id: <b>{{ image['id'] }}</b> </p>
+          <p>Category: <a class="ui label category-{{ cluster_map[image['id']] }}" href="/categories/{{ cluster_map[image['id']] }}">Category-{{ cluster_map[image['id']] }}</a> </p>
+        </div>
+      </div>
+    </div>
+    <br>
   {% endfor %}
-  </ul>
+  </div>
+</div>
+
 {% endblock %}
